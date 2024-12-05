@@ -1908,3 +1908,1112 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.05-15.22.59:551][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.05-15.22.59:551][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.05-15.22.59:551][215]AssetCheck: /Game/Levels/Adri Validating asset
+[2024.12.05-15.23.24:364][544]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-15.23.24:369][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-15.23.24:369][544]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Adri
+[2024.12.05-15.23.24:369][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000601s)
+[2024.12.05-15.23.24:369][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Adri.Adri to /Game/Levels/UEDPIE_0_Adri.Adri (0.000622s)
+[2024.12.05-15.23.24:381][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.05-15.23.24:381][544]LogChaosDD: Creating Chaos Debug Draw Scene for world Adri
+[2024.12.05-15.23.24:382][544]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2024.12.05-15.23.24:383][544]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-15.23.24:383][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-15.23.24:383][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-15.23.24:383][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-15.23.24:383][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-15.23.24:383][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-15.23.24:384][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-15.23.24:393][544]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-15.23.24:393][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-15.23.24:393][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-15.23.24:393][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-15.23.24:394][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.05-15.23.24:394][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.05-15.23.24:395][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.05-15.23.24:395][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.05-15.23.24:395][544]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.05-15.23.24:395][544]LogAudio: Display: Audio Device (ID: 5) registered with world 'Adri'.
+[2024.12.05-15.23.24:395][544]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.05-15.23.24:454][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.23.24:454][544]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-15.23.24:455][544]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Adri.Adri up for play (max tick rate 0) at 2024.12.05-16.23.24
+[2024.12.05-15.23.24:455][544]LogWorld: Bringing up level for play took: 0.000533
+[2024.12.05-15.23.24:456][544]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.12.05-15.23.24:460][544]PIE: Server logged in
+[2024.12.05-15.23.24:461][544]PIE: Play in editor total start time 0,092 seconds.
+[2024.12.05-15.23.35:135][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.23.35:135][812]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Adri
+[2024.12.05-15.23.35:135][812]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-15.23.35:140][812]LogWorld: UWorld::CleanupWorld for Adri, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.23.35:140][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.23.35:142][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-15.23.35:144][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.23.35:157][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.05-15.23.35:157][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.05-15.23.35:159][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.05-15.23.35:163][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-15.23.35:198][814]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.12.05-15.23.37:081][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.23.38:465][ 38]LogSlate: Window 'Save Content' being destroyed
+[2024.12.05-15.23.38:475][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.23.38:541][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.05-15.23.38:543][ 38]LogSavePackage: Moving output files for package: /Game/Levels/MEga
+[2024.12.05-15.23.38:543][ 38]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MEga524EA25D443469DE0045ADB16BE990E9.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MEga.umap'
+[2024.12.05-15.23.38:550][ 38]LogFileHelpers: Saving map 'MEga' took 0.026
+[2024.12.05-15.23.38:584][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.638 ms (total: 368.724 ms)
+[2024.12.05-15.23.38:584][ 38]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MEga.MEga
+[2024.12.05-15.23.38:584][ 38]Cmd: MAP LOAD FILE="../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MEga.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-15.23.38:645][ 38]LogWorld: UWorld::CleanupWorld for Adri, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.23.38:645][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.23.38:659][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-15.23.38:660][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.05-15.23.38:661][ 38]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.23.38:661][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.23.38:675][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.05-15.23.38:686][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.05-15.23.38:686][ 38]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-15.23.38:687][ 38]LogAudio: Display: Audio Device (ID: 1) registered with world 'MEga'.
+[2024.12.05-15.23.38:687][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-15.23.38:694][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-15.23.38:706][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-15.23.38:715][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-15.23.38:715][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,036ms to complete.
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: Enabled validators:
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.23.38:765][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.23.38:765][ 38]AssetCheck: /Game/Levels/MEga Validating asset
+[2024.12.05-15.23.40:672][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.23.40:746][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.05-15.23.40:748][250]LogSavePackage: Moving output files for package: /Game/Levels/MEga
+[2024.12.05-15.23.40:749][250]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MEgaF3CA8A39466260F2F4BA229C4DDEA82D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MEga.umap'
+[2024.12.05-15.23.40:757][250]LogFileHelpers: Saving map 'MEga' took 0.038
+[2024.12.05-15.23.40:761][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.136 ms (total: 457.861 ms)
+[2024.12.05-15.23.40:818][250]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.23.40:818][250]LogContentValidation: Enabled validators:
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.23.40:818][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.23.40:818][250]AssetCheck: /Game/Levels/MEga Validating asset
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Total job queries 1749, among them cache hits 7 (0.40%), DDC hits 0 (0.00%), Duplicates 367 (20.98%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Tracking 1375 distinct input hashes that result in 1042 distinct outputs (75.78%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: RAM used: 685,76 KiB of 1,60 GiB budget. Usage: 0.04%
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Shaders Compiled: 1375
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Jobs assigned 1375, completed 1375 (100%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Average time worker was idle: 13.35 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Time job spent in pending queue: average 17.33 s, longest 47.62 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Job execution time: average 5.73 s, max 19.60 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Job life time (pending + execution): average 23.06 s, max 50.01
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Shader code size: average 13,019 KiB, min 1,199 KiB, max 49,172 KiB
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.19 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Jobs were issued in 272 batches (only local compilation was used), average 5.06 jobs/batch
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Average processing rate: 19.87 jobs/sec
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Total thread time: 901,399 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Total thread preprocess time: 20,719 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Percentage time preprocessing: 2.30%
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Effective parallelization: 13.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 42.45% of total time (compiled  260 times, average 1.47 sec, max 3.51 sec, min 0.00 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 11.64% of total time (compiled   68 times, average 1.54 sec, max 2.10 sec, min 0.99 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.53% of total time (compiled   60 times, average 0.53 sec, max 0.68 sec, min 0.36 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.87% of total time (compiled   23 times, average 1.12 sec, max 1.41 sec, min 0.82 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.02% of total time (compiled   41 times, average 0.44 sec, max 0.64 sec, min 0.31 sec)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: === Material stats ===
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Materials Translated:    137
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Material Translation Only: 0.03 s (20%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.05-15.23.50:403][737]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.24.02:916][215]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.03:490][260]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.03:780][269]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.04:160][298]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.04:648][351]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.05:129][388]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.08:015][701]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.08:048][702]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.09:149][825]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.09:248][826]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.09:913][891]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.09:942][893]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.16:753][637]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.05-15.24.56:466][258]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.56:466][258]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.05-15.24.56:902][265]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.56:902][265]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.05-15.24.57:296][297]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.57:296][297]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.05-15.24.57:699][338]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.57:699][338]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.05-15.24.58:107][387]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.58:107][387]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.05-15.24.58:368][411]Cmd: TRANSACTION UNDO
+[2024.12.05-15.24.58:368][411]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.05-15.25.21:207][964]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.05-15.25.22:307][ 83]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.12.05-15.25.41:357][347]Cmd: TRANSACTION UNDO
+[2024.12.05-15.25.41:357][347]LogEditorTransaction: Undo Rotate Elements
+[2024.12.05-15.25.41:748][355]Cmd: TRANSACTION UNDO
+[2024.12.05-15.25.41:748][355]LogEditorTransaction: Undo Rotate Elements
+[2024.12.05-15.25.54:955][903]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.05-15.25.59:454][414]Cmd: EDIT COPY
+[2024.12.05-15.25.59:643][436]Cmd: EDIT PASTE
+[2024.12.05-15.26.06:625][253]Cmd: EDIT COPY
+[2024.12.05-15.26.06:829][277]Cmd: EDIT PASTE
+[2024.12.05-15.26.09:871][613]Cmd: TRANSACTION UNDO
+[2024.12.05-15.26.09:871][613]LogEditorTransaction: Undo Move Elements
+[2024.12.05-15.26.14:700][122]Cmd: EDIT COPY
+[2024.12.05-15.26.14:937][150]Cmd: EDIT PASTE
+[2024.12.05-15.26.29:203][815]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.05-15.26.30:051][909]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.05-15.26.34:722][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter_C
+[2024.12.05-15.26.34:722][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter_C
+[2024.12.05-15.26.34:724][450]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter as actor: FirstPersonCharacter_C /Game/Levels/MEga.MEga:PersistentLevel.FirstPersonCharacter_C_0
+[2024.12.05-15.26.34:725][450]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter as actor: FirstPersonCharacter_C /Game/Levels/MEga.MEga:PersistentLevel.FirstPersonCharacter_C_0
+[2024.12.05-15.26.36:233][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.26.36:235][623]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2024.12.05-15.26.36:238][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter_C
+[2024.12.05-15.26.36:238][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter_C
+[2024.12.05-15.26.36:241][623]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter as actor: FirstPersonCharacter_C /Game/Levels/MEga.MEga:PersistentLevel.FirstPersonCharacter_C_1
+[2024.12.05-15.26.36:242][623]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter as actor: FirstPersonCharacter_C /Game/Levels/MEga.MEga:PersistentLevel.FirstPersonCharacter_C_1
+[2024.12.05-15.26.36:358][625]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.05-15.26.42:075][281]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-15.26.42:080][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-15.26.42:080][281]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.26.42:082][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2024.12.05-15.26.42:082][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MEga.MEga to /Game/Levels/UEDPIE_0_MEga.MEga (0.001925s)
+[2024.12.05-15.26.42:095][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-15.26.42:097][281]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-15.26.42:098][281]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2024.12.05-15.26.42:098][281]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-15.26.42:098][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-15.26.42:098][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-15.26.42:098][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-15.26.42:098][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-15.26.42:098][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-15.26.42:100][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-15.26.42:109][281]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-15.26.42:110][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-15.26.42:110][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-15.26.42:110][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-15.26.42:110][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.05-15.26.42:110][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.12.05-15.26.42:111][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.05-15.26.42:111][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.05-15.26.42:111][281]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.05-15.26.42:111][281]LogAudio: Display: Audio Device (ID: 6) registered with world 'MEga'.
+[2024.12.05-15.26.42:111][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.05-15.26.42:165][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.26.42:166][281]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-15.26.42:167][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MEga.MEga up for play (max tick rate 0) at 2024.12.05-16.26.42
+[2024.12.05-15.26.42:168][281]LogWorld: Bringing up level for play took: 0.002441
+[2024.12.05-15.26.42:170][281]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.05-15.26.42:173][281]PIE: Server logged in
+[2024.12.05-15.26.42:174][281]PIE: Play in editor total start time 0,095 seconds.
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Total job queries 1767, among them cache hits 11 (0.62%), DDC hits 0 (0.00%), Duplicates 367 (20.77%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Tracking 1389 distinct input hashes that result in 1051 distinct outputs (75.67%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: RAM used: 688,59 KiB of 1,60 GiB budget. Usage: 0.04%
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Shaders Compiled: 1389
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Jobs assigned 1389, completed 1389 (100%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Average time worker was idle: 20.33 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Time job spent in pending queue: average 17.16 s, longest 47.62 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Job execution time: average 5.68 s, max 19.60 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Job life time (pending + execution): average 22.83 s, max 50.01
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Shader code size: average 12,958 KiB, min 1,199 KiB, max 49,172 KiB
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 71.21 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Jobs were issued in 286 batches (only local compilation was used), average 4.86 jobs/batch
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Average processing rate: 19.51 jobs/sec
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Total thread time: 905,641 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Total thread preprocess time: 20,867 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Percentage time preprocessing: 2.30%
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Effective parallelization: 12.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 42.25% of total time (compiled  260 times, average 1.47 sec, max 3.51 sec, min 0.00 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 11.58% of total time (compiled   68 times, average 1.54 sec, max 2.10 sec, min 0.99 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.52% of total time (compiled   60 times, average 0.53 sec, max 0.68 sec, min 0.36 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.86% of total time (compiled   23 times, average 1.12 sec, max 1.41 sec, min 0.82 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.19% of total time (compiled   45 times, average 0.44 sec, max 0.64 sec, min 0.31 sec)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: === Material stats ===
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Materials Translated:    137
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Material Translation Only: 0.03 s (20%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.05-15.26.50:405][260]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.26.50:495][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.26.50:495][266]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.26.50:495][266]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-15.26.50:500][266]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.26.50:500][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.26.50:503][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-15.26.50:505][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.26.50:518][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-15.26.50:518][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.05-15.26.50:519][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.05-15.26.50:520][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.05-15.26.50:524][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-15.26.50:561][268]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.05-15.26.55:647][860]Cmd: DELETE
+[2024.12.05-15.26.55:647][860]Cmd: ACTOR DELETE
+[2024.12.05-15.26.55:652][860]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2024.12.05-15.26.55:665][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-15.26.55:666][860]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.12.05-15.27.00:750][463]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-15.27.00:755][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-15.27.00:755][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.00:756][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001174s)
+[2024.12.05-15.27.00:756][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MEga.MEga to /Game/Levels/UEDPIE_0_MEga.MEga (0.001196s)
+[2024.12.05-15.27.00:767][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.27.00:769][463]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-15.27.00:770][463]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2024.12.05-15.27.00:770][463]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-15.27.00:770][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-15.27.00:770][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-15.27.00:770][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-15.27.00:770][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-15.27.00:770][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-15.27.00:772][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-15.27.00:781][463]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-15.27.00:781][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-15.27.00:781][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-15.27.00:781][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-15.27.00:781][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.12.05-15.27.00:781][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.12.05-15.27.00:783][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.12.05-15.27.00:783][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.12.05-15.27.00:783][463]LogInit: FAudioDevice initialized with ID 7.
+[2024.12.05-15.27.00:783][463]LogAudio: Display: Audio Device (ID: 7) registered with world 'MEga'.
+[2024.12.05-15.27.00:783][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.05-15.27.00:831][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.00:832][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-15.27.00:832][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MEga.MEga up for play (max tick rate 0) at 2024.12.05-16.27.00
+[2024.12.05-15.27.00:832][463]LogWorld: Bringing up level for play took: 0.000769
+[2024.12.05-15.27.00:835][463]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.12.05-15.27.00:838][463]PIE: Server logged in
+[2024.12.05-15.27.00:839][463]PIE: Play in editor total start time 0,084 seconds.
+[2024.12.05-15.27.07:375][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.07:375][235]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.07:376][235]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-15.27.07:379][235]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.27.07:379][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.07:382][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-15.27.07:383][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.07:397][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.05-15.27.07:397][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.05-15.27.07:398][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.05-15.27.07:402][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.27.07:439][237]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.12.05-15.27.10:157][563]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-15.27.10:162][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-15.27.10:162][563]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.10:163][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001152s)
+[2024.12.05-15.27.10:163][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MEga.MEga to /Game/Levels/UEDPIE_0_MEga.MEga (0.001169s)
+[2024.12.05-15.27.10:176][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-15.27.10:177][563]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-15.27.10:178][563]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.12.05-15.27.10:178][563]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-15.27.10:178][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-15.27.10:178][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-15.27.10:178][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-15.27.10:178][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-15.27.10:178][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-15.27.10:180][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-15.27.10:189][563]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-15.27.10:189][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-15.27.10:189][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-15.27.10:189][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-15.27.10:189][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.05-15.27.10:189][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.12.05-15.27.10:191][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.05-15.27.10:191][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.05-15.27.10:191][563]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.05-15.27.10:191][563]LogAudio: Display: Audio Device (ID: 8) registered with world 'MEga'.
+[2024.12.05-15.27.10:191][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.05-15.27.10:230][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.10:231][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-15.27.10:231][563]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MEga.MEga up for play (max tick rate 0) at 2024.12.05-16.27.10
+[2024.12.05-15.27.10:231][563]LogWorld: Bringing up level for play took: 0.000553
+[2024.12.05-15.27.10:232][563]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.05-15.27.10:235][563]PIE: Server logged in
+[2024.12.05-15.27.10:236][563]PIE: Play in editor total start time 0,075 seconds.
+[2024.12.05-15.27.11:005][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.11:005][643]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.11:005][643]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-15.27.11:009][643]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.27.11:009][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.11:012][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-15.27.11:014][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.11:027][643]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.05-15.27.11:027][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.05-15.27.11:029][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.05-15.27.11:033][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.05-15.27.11:065][645]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.05-15.27.19:307][585]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-15.27.19:312][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-15.27.19:312][585]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.19:313][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001177s)
+[2024.12.05-15.27.19:313][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MEga.MEga to /Game/Levels/UEDPIE_0_MEga.MEga (0.001195s)
+[2024.12.05-15.27.19:325][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-15.27.19:326][585]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-15.27.19:327][585]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.12.05-15.27.19:327][585]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-15.27.19:327][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-15.27.19:327][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-15.27.19:327][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-15.27.19:327][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-15.27.19:327][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-15.27.19:328][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-15.27.19:338][585]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-15.27.19:338][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-15.27.19:338][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-15.27.19:338][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-15.27.19:338][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.05-15.27.19:338][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.12.05-15.27.19:340][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.05-15.27.19:340][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.05-15.27.19:340][585]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.05-15.27.19:340][585]LogAudio: Display: Audio Device (ID: 9) registered with world 'MEga'.
+[2024.12.05-15.27.19:340][585]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.05-15.27.19:400][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.19:401][585]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-15.27.19:401][585]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MEga.MEga up for play (max tick rate 0) at 2024.12.05-16.27.19
+[2024.12.05-15.27.19:401][585]LogWorld: Bringing up level for play took: 0.000550
+[2024.12.05-15.27.19:403][585]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.05-15.27.19:406][585]PIE: Server logged in
+[2024.12.05-15.27.19:407][585]PIE: Play in editor total start time 0,095 seconds.
+[2024.12.05-15.27.56:014][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-15.27.56:014][965]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-15.27.56:015][965]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-15.27.56:019][965]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.27.56:019][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.56:022][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-15.27.56:024][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.27.56:037][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.05-15.27.56:037][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.05-15.27.56:038][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.05-15.27.56:043][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.05-15.27.56:081][969]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.05-15.28.01:771][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 974.938965
+[2024.12.05-15.28.01:900][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.28.01:900][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 975.059998, Update Interval: 318.882416
+[2024.12.05-15.28.02:708][714]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.05-15.28.02:712][714]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.05-15.28.02:718][715]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.05-15.28.09:261][482]LogContentBrowser: Attempting asset rename: NewFolder -> SaveGame
+[2024.12.05-15.28.09:264][482]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.05-15.30.34:266][556]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.05-15.30.34:275][556]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.05-15.30.34:279][556]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.05-15.30.34:287][556]LogAutomationController: Ignoring very large delta of 8.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.30.34:298][558]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.05-15.30.41:099][336]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SaveGame
+[2024.12.05-15.30.41:103][336]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.05-15.30.42:413][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveGame/BP_SaveGame.BP_SaveGame
+[2024.12.05-15.30.42:416][487]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.05-15.30.48:306][ 86]LogSlate: Window 'BP_SaveGame' being destroyed
+[2024.12.05-15.32.47:846][988]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.12.05-15.32.47:850][988]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.12.05-15.32.47:855][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.12.05-15.32.54:795][197]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2024.12.05-15.32.54:827][197]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.12.05-15.33.04:980][359]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_PlayerSave
+[2024.12.05-15.33.05:060][359]LogMetaData: Removing '/Game/Blueprints/SaveGame/S_PlayerSave.S_PlayerSave' ref from Metadata '/Game/Blueprints/SaveGame/NewUserDefinedStruct.PackageMetaData'
+[2024.12.05-15.33.05:064][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.33.05:065][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/S_PlayerSave] ([1] browsable assets)...
+[2024.12.05-15.33.05:065][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/S_PlayerSave]
+[2024.12.05-15.33.05:065][359]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/S_PlayerSave
+[2024.12.05-15.33.05:065][359]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/S_PlayerSaveCF46E6014161818D37B80EB26BBE2D1D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/S_PlayerSave.uasset'
+[2024.12.05-15.33.05:066][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.452 ms (total: 459.313 ms)
+[2024.12.05-15.33.05:109][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.33.05:120][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.05-15.33.05:130][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.05-15.33.05:172][359]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.33.05:172][359]LogContentValidation: Enabled validators:
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.33.05:172][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.33.05:172][359]AssetCheck: /Game/Blueprints/SaveGame/S_PlayerSave Validating asset
+[2024.12.05-15.33.35:440][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1308.607544
+[2024.12.05-15.33.36:439][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.33.36:439][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1309.273071, Update Interval: 328.422485
+[2024.12.05-15.33.56:154][830]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/SaveGame/S_PlayerSave.S_PlayerSave
+[2024.12.05-15.34.19:963][ 25]LogSlate: Took 0.003978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.05-15.34.46:660][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.05-15.34.46:664][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MEga_Auto1
+[2024.12.05-15.34.46:664][400]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MEga_Auto1576B13804F252AAEEA683F9D0976F64D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Levels/MEga_Auto1.umap'
+[2024.12.05-15.34.46:668][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MEga' took 0.028
+[2024.12.05-15.34.46:668][400]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.12.05-15.34.46:668][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/BP_SaveGame] ([2] browsable assets)...
+[2024.12.05-15.34.46:668][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/BP_SaveGame]
+[2024.12.05-15.34.46:670][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SaveGame/BP_SaveGame_Auto1
+[2024.12.05-15.34.46:670][400]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/BP_SaveGame_Auto1C7238F3D4390013F134E369B643BC662.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/SaveGame/BP_SaveGame_Auto1.uasset'
+[2024.12.05-15.34.46:670][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/S_PlayerSave] ([1] browsable assets)...
+[2024.12.05-15.34.46:670][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/S_PlayerSave]
+[2024.12.05-15.34.46:670][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SaveGame/S_PlayerSave_Auto1
+[2024.12.05-15.34.46:670][400]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/S_PlayerSave_Auto1894696D34AA7B18E2AEE848FE8BA2634.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/SaveGame/S_PlayerSave_Auto1.uasset'
+[2024.12.05-15.34.46:671][400]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.12.05-15.39.23:108][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1656.278809
+[2024.12.05-15.39.24:108][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.39.24:108][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1656.945557, Update Interval: 304.365356
+[2024.12.05-15.43.03:142][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.05-15.43.04:268][840]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-15.43.04:332][840]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.43.04:332][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.43.04:349][840]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/SaveGame/S_PlayerSave.S_PlayerSave
+	Asset Type: UserDefinedStruct
+[2024.12.05-15.43.04:624][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.05-15.43.04:637][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.05-15.43.04:646][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.05-15.43.04:659][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.05-15.43.05:413][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.05-15.43.06:395][927]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-15.43.06:433][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-15.43.06:443][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.05-15.43.06:453][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.05-15.43.48:221][174]LogContentBrowser: Deferred new asset file creation: NewWidgetPreview
+[2024.12.05-15.43.48:226][174]LogContentBrowser: Creating deferred item: NewWidgetPreview
+[2024.12.05-15.43.48:231][175]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetPreview).
+[2024.12.05-15.44.05:364][172]LogContentBrowser: Attempting asset rename: NewWidgetPreview -> GuardarCargar
+[2024.12.05-15.44.05:365][172]LogContentBrowser: End creating deferred item NewWidgetPreview
+[2024.12.05-15.44.25:334][539]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/MainMenu.MainMenu
+[2024.12.05-15.44.25:334][539]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.12.05-15.44.25:339][539]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2024.12.05-15.44.35:255][681]LogSlate: Window 'MainMenu' being destroyed
+[2024.12.05-15.44.35:258][681]LogSlate: Window 'MainMenu' being destroyed
+[2024.12.05-15.44.35:263][681]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.44.35:263][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.44.35:268][681]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.44.35:268][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.44.35:305][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.44.36:281][797]LogAssetEditorSubsystem: Opening Asset editor for WidgetPreview /Game/Blueprints/Menu/GuardarCargar.GuardarCargar
+[2024.12.05-15.44.36:286][797]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2024.12.05-15.44.36:293][797]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2024.12.05-15.44.36:296][797]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-15.44.44:446][707]LogSlate: Window 'Widget Preview: GuardarCargar' being destroyed
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Total job queries 1771, among them cache hits 11 (0.62%), DDC hits 0 (0.00%), Duplicates 367 (20.72%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Tracking 1393 distinct input hashes that result in 1053 distinct outputs (75.59%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: RAM used: 689,22 KiB of 1,60 GiB budget. Usage: 0.04%
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Shaders Compiled: 1393
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Jobs assigned 1393, completed 1393 (100%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Average time worker was idle: 35.80 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Time job spent in pending queue: average 17.11 s, longest 47.62 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Job execution time: average 5.67 s, max 19.60 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Job life time (pending + execution): average 22.77 s, max 50.01
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Shader code size: average 12,939 KiB, min 1,199 KiB, max 49,172 KiB
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 72.48 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Jobs were issued in 290 batches (only local compilation was used), average 4.80 jobs/batch
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Average processing rate: 19.22 jobs/sec
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Total thread time: 906,926 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Total thread preprocess time: 20,902 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Percentage time preprocessing: 2.30%
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Effective parallelization: 12.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 42.19% of total time (compiled  260 times, average 1.47 sec, max 3.51 sec, min 0.00 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 11.57% of total time (compiled   68 times, average 1.54 sec, max 2.10 sec, min 0.99 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.51% of total time (compiled   60 times, average 0.53 sec, max 0.68 sec, min 0.36 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.85% of total time (compiled   23 times, average 1.12 sec, max 1.41 sec, min 0.82 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.23% of total time (compiled   46 times, average 0.44 sec, max 0.64 sec, min 0.31 sec)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: === Material stats ===
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Materials Translated:    140
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Material Translation Only: 0.03 s (20%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.05-15.44.50:874][473]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.44.51:799][581]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.44.51:799][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.44.51:849][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-15.44.55:284][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.44.56:337][985]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-15.44.56:371][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-15.44.56:384][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-15.44.56:395][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.05-15.45.11:820][614]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.05-15.45.11:829][614]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.05-15.45.11:835][614]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.05-15.45.11:843][614]LogAutomationController: Ignoring very large delta of 9.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.45.11:847][615]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.05-15.45.15:277][994]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.12.05-15.45.15:281][994]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.05-15.45.18:401][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2011.573730
+[2024.12.05-15.45.18:542][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.45.18:542][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2011.706543, Update Interval: 353.397003
+[2024.12.05-15.45.26:910][377]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CargarGuardar
+[2024.12.05-15.45.26:964][377]LogMetaData: Removing '/Game/Blueprints/Menu/CargarGuardar.SKEL_CargarGuardar_C' ref from Metadata '/Game/Blueprints/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.12.05-15.45.26:964][377]LogMetaData: Removing '/Game/Blueprints/Menu/CargarGuardar.CargarGuardar_C' ref from Metadata '/Game/Blueprints/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.12.05-15.45.26:964][377]LogMetaData: Removing '/Game/Blueprints/Menu/CargarGuardar.CargarGuardar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.12.05-15.45.26:964][377]LogMetaData: Removing '/Game/Blueprints/Menu/CargarGuardar.CargarGuardar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.12.05-15.45.26:964][377]LogMetaData: Removing '/Game/Blueprints/Menu/CargarGuardar.CargarGuardar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.12.05-15.45.26:966][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.45.26:966][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/CargarGuardar] ([2] browsable assets)...
+[2024.12.05-15.45.26:967][377]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/CargarGuardar.CargarGuardar]
+[2024.12.05-15.45.26:967][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/CargarGuardar]
+[2024.12.05-15.45.26:969][377]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/CargarGuardar
+[2024.12.05-15.45.26:969][377]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/CargarGuardarF7A0F1FC446CC72CFBD60793782C1AE3.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/CargarGuardar.uasset'
+[2024.12.05-15.45.26:972][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.873 ms (total: 466.186 ms)
+[2024.12.05-15.45.26:996][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.05-15.45.27:008][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-15.45.27:018][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.05-15.45.27:060][377]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.45.27:060][377]LogContentValidation: Enabled validators:
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.45.27:060][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.45.27:060][377]AssetCheck: /Game/Blueprints/Menu/CargarGuardar Validating asset
+[2024.12.05-15.45.28:755][578]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/CargarGuardar.CargarGuardar
+[2024.12.05-15.45.28:755][578]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.05-15.45.28:759][578]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.12.05-15.45.31:508][859]LogSlate: Window 'CargarGuardar' being destroyed
+[2024.12.05-15.45.58:106][ 48]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.45.58:106][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.45.58:110][ 48]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.45.58:110][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.45.58:145][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.05-15.46.02:473][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.05-15.46.03:767][526]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-15.46.03:798][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.05-15.46.03:812][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.05-15.46.03:821][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.05-15.46.27:019][600]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.05-15.46.27:028][600]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.05-15.46.27:033][600]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.05-15.46.27:034][600]LogAutomationController: Ignoring very large delta of 13.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.46.27:038][601]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.05-15.46.38:709][963]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GuardarCargar
+[2024.12.05-15.46.38:713][963]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.05-15.46.41:363][279]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar
+[2024.12.05-15.46.41:363][279]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.05-15.46.41:367][279]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.12.05-15.46.43:274][460]LogSlate: Window 'GuardarCargar' being destroyed
+[2024.12.05-15.46.57:823][396]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/MainMenu.MainMenu
+[2024.12.05-15.46.57:823][396]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.05-15.46.57:828][396]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.05-15.51.31:176][488]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.12.05-15.52.01:018][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2414.174072
+[2024.12.05-15.52.01:147][978]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.52.01:147][978]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2414.292969, Update Interval: 315.859253
+[2024.12.05-15.52.10:216][965]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:216][965]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:218][965]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:255][966]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:294][968]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:299][969]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:339][971]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:373][972]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:413][974]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:419][975]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:458][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:493][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:533][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:538][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:578][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:612][984]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:652][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:657][987]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:697][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:732][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:771][992]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:777][993]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:808][994]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:817][995]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:850][996]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:890][998]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:896][999]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:927][  0]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:936][  1]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:937][  1]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.10:971][  2]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:011][  4]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:016][  5]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:056][  7]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:090][  8]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:130][ 10]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:136][ 11]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:177][ 13]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:212][ 14]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:251][ 16]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:256][ 17]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:296][ 19]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:331][ 20]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:367][ 22]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:368][ 22]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:371][ 22]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:375][ 23]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:377][ 23]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:409][ 24]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:417][ 25]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:418][ 25]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:451][ 26]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:455][ 26]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:495][ 28]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:500][ 29]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:542][ 31]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:577][ 32]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:618][ 34]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:624][ 35]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:665][ 37]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:701][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:738][ 40]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:742][ 40]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:747][ 41]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:780][ 42]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:788][ 43]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:789][ 43]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:821][ 44]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:824][ 44]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:860][ 46]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:863][ 46]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:869][ 47]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:899][ 48]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:908][ 49]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:909][ 49]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:939][ 50]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:943][ 50]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.11:948][ 51]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:534][107]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:535][107]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:537][107]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:571][108]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:580][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:611][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:615][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:654][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:660][113]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:699][115]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:734][116]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:773][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:779][119]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:819][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:853][122]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:889][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:892][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:898][125]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:929][126]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:937][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:938][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:969][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:973][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.12:977][129]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:010][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:013][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:018][131]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:049][132]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:058][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:058][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:059][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:091][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:095][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:099][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:134][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:139][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:171][138]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:180][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:181][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:212][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:215][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:220][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:252][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:255][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:260][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:261][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:293][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:301][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:302][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:333][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:337][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:373][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:377][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:381][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:383][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:414][150]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:422][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:423][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:454][152]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:458][152]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:462][153]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:463][153]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:495][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:499][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:503][155]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:505][155]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:536][156]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:544][157]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:545][157]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:576][158]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:580][158]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:585][159]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:585][159]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:617][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:620][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:626][161]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:657][162]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:665][163]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:666][163]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:697][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:700][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:705][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:706][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:737][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:741][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:746][167]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:786][169]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:817][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:821][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:825][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:857][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:861][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:866][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:897][174]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:906][175]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:937][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:937][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:940][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:976][178]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:980][178]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.13:985][179]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:016][180]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:517][226]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:517][226]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:519][226]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:553][227]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:557][227]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:561][228]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:592][229]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:596][229]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:601][230]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:602][230]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:633][231]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:641][232]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:642][232]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:673][233]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:677][233]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:681][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:714][235]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:717][235]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:722][236]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:753][237]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:762][238]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:763][238]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:793][239]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:797][239]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:836][241]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:841][242]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:881][244]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:911][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:915][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:920][246]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:952][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:952][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:956][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:960][248]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:961][248]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.14:992][249]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.15:000][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.15:002][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.15:033][251]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.15:036][251]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.15:072][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:882][350]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:883][350]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:885][350]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:918][351]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:919][351]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:922][351]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:926][352]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:958][353]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:962][353]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:966][354]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:966][354]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:967][354]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.33:998][355]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:006][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:008][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:040][357]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:044][357]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:083][359]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:089][360]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:128][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:159][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:163][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:198][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:202][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:207][366]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:208][366]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:239][367]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:247][368]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:279][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:279][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:782][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:782][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:784][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:819][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:823][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:827][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:861][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:861][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:865][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:869][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:870][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:903][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:911][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:912][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:944][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:948][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:953][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:986][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:989][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:994][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.34:995][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:027][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:036][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:069][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:073][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:077][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:110][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:114][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:118][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:119][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:152][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:161][434]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.35:193][435]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.12.05-15.52.48:090][878]LogEditorTransaction: Undo Edit Bottom
+[2024.12.05-15.54.20:360][ 39]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.54.20:360][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.54.20:367][ 39]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.54.20:367][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.54.20:422][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.05-15.55.50:101][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-15.55.50:106][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MEga_Auto2
+[2024.12.05-15.55.50:107][767]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MEga_Auto2E273189347E32F24B384309286E1C81D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Levels/MEga_Auto2.umap'
+[2024.12.05-15.55.50:107][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MEga' took 0.019
+[2024.12.05-15.55.50:107][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.12.05-15.55.50:107][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-15.55.50:109][767]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-15.55.50:109][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-15.55.50:111][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto2
+[2024.12.05-15.55.50:111][767]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar_Auto2F6D19CE24FCE070CAE6B8393F40D29C5.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto2.uasset'
+[2024.12.05-15.55.50:112][767]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.12.05-15.56.34:114][953]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.05-15.56.34:121][953]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.05-15.56.34:124][953]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.05-15.56.34:126][953]LogAutomationController: Ignoring very large delta of 4.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.56.34:139][955]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.05-15.56.45:197][281]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.12.05-15.56.45:202][281]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.05-15.56.51:438][954]LogContentBrowser: Attempting asset rename: NewBlueprint -> GuardarInfo
+[2024.12.05-15.56.51:505][954]LogMetaData: Removing '/Game/Blueprints/SaveGame/GuardarInfo.SKEL_GuardarInfo_C' ref from Metadata '/Game/Blueprints/SaveGame/NewBlueprint.PackageMetaData'
+[2024.12.05-15.56.51:505][954]LogMetaData: Removing '/Game/Blueprints/SaveGame/GuardarInfo.GuardarInfo_C' ref from Metadata '/Game/Blueprints/SaveGame/NewBlueprint.PackageMetaData'
+[2024.12.05-15.56.51:506][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.56.51:506][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/GuardarInfo] ([2] browsable assets)...
+[2024.12.05-15.56.51:506][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/GuardarInfo]
+[2024.12.05-15.56.51:507][954]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/GuardarInfo
+[2024.12.05-15.56.51:507][954]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarInfo0324228246DEFAD9BCF1F181F70E5FFA.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/GuardarInfo.uasset'
+[2024.12.05-15.56.51:510][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.050 ms (total: 470.237 ms)
+[2024.12.05-15.56.51:533][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.05-15.56.51:549][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.05-15.56.51:558][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.05-15.56.51:619][954]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.56.51:619][954]LogContentValidation: Enabled validators:
+[2024.12.05-15.56.51:619][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.56.51:619][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.56.51:619][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.56.51:620][954]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.56.51:620][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.56.51:620][954]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.56.51:620][954]AssetCheck: /Game/Blueprints/SaveGame/GuardarInfo Validating asset
+[2024.12.05-15.56.52:786][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveGame/GuardarInfo.GuardarInfo
+[2024.12.05-15.56.52:786][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.05-15.57.27:836][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.57.27:886][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/GuardarInfo] ([2] browsable assets)...
+[2024.12.05-15.57.27:886][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/GuardarInfo]
+[2024.12.05-15.57.27:887][300]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/GuardarInfo
+[2024.12.05-15.57.27:887][300]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarInfo55EFDE804A3EA3F672A65CB9CF333BD6.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/GuardarInfo.uasset'
+[2024.12.05-15.57.27:891][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.078 ms (total: 525.316 ms)
+[2024.12.05-15.57.27:933][300]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.57.27:933][300]LogContentValidation: Enabled validators:
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.57.27:933][300]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.57.27:934][300]AssetCheck: /Game/Blueprints/SaveGame/GuardarInfo Validating asset
+[2024.12.05-15.57.30:108][560]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-15.57.30:108][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-15.57.30:152][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-15.57.54:850][227]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.05-15.57.54:857][227]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.05-15.57.54:861][227]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.05-15.57.54:862][227]LogAutomationController: Ignoring very large delta of 7.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.57.54:862][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2768.024902
+[2024.12.05-15.57.54:866][228]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.05-15.57.55:202][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.57.55:202][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2768.359131, Update Interval: 332.156128
+[2024.12.05-15.58.04:348][411]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.12.05-15.58.04:354][411]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.05-15.58.05:578][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-15.58.06:783][522]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-15.58.06:805][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.05-15.58.06:825][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-15.58.06:835][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.05-15.58.13:906][708]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.05-15.58.13:913][708]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.05-15.58.13:917][708]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.05-15.58.13:918][708]LogAutomationController: Ignoring very large delta of 5.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-15.58.13:921][709]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.05-15.58.19:637][913]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.12.05-15.58.19:643][913]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.05-15.58.26:022][626]LogContentBrowser: Attempting asset rename: NewBlueprint -> Instanciador
+[2024.12.05-15.58.26:088][626]LogMetaData: Removing '/Game/Blueprints/SaveGame/Instanciador.SKEL_Instanciador_C' ref from Metadata '/Game/Blueprints/SaveGame/NewBlueprint.PackageMetaData'
+[2024.12.05-15.58.26:088][626]LogMetaData: Removing '/Game/Blueprints/SaveGame/Instanciador.Instanciador_C' ref from Metadata '/Game/Blueprints/SaveGame/NewBlueprint.PackageMetaData'
+[2024.12.05-15.58.26:088][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.58.26:088][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/Instanciador] ([2] browsable assets)...
+[2024.12.05-15.58.26:088][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/Instanciador]
+[2024.12.05-15.58.26:089][626]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/Instanciador
+[2024.12.05-15.58.26:089][626]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/InstanciadorB597576F4C374D7F00F8DBB5DCEF6994.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/Instanciador.uasset'
+[2024.12.05-15.58.26:092][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.157 ms (total: 529.473 ms)
+[2024.12.05-15.58.26:114][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-15.58.26:126][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.05-15.58.26:135][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.05-15.58.26:164][626]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-15.58.26:164][626]LogContentValidation: Enabled validators:
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-15.58.26:164][626]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-15.58.26:164][626]AssetCheck: /Game/Blueprints/SaveGame/Instanciador Validating asset
+[2024.12.05-15.58.35:961][135]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.05-15.59.22:980][275]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.05-15.59.36:751][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveGame/Instanciador.Instanciador
+[2024.12.05-15.59.36:751][  9]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Total job queries 1786, among them cache hits 11 (0.62%), DDC hits 0 (0.00%), Duplicates 367 (20.55%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Tracking 1408 distinct input hashes that result in 1064 distinct outputs (75.57%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: RAM used: 693,68 KiB of 1,60 GiB budget. Usage: 0.04%
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Shaders Compiled: 1408
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Jobs assigned 1408, completed 1408 (100%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Average time worker was idle: 126.43 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Time job spent in pending queue: average 16.93 s, longest 47.62 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Job execution time: average 5.61 s, max 19.60 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Job life time (pending + execution): average 22.54 s, max 50.01
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Shader code size: average 12,865 KiB, min 1,199 KiB, max 49,172 KiB
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.08 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Jobs were issued in 305 batches (only local compilation was used), average 4.62 jobs/batch
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Average processing rate: 19.01 jobs/sec
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Total thread time: 912,891 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Total thread preprocess time: 21,043 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Percentage time preprocessing: 2.31%
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Effective parallelization: 12.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 2.06 sec, max 2.06 sec, min 2.06 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 41.92% of total time (compiled  260 times, average 1.47 sec, max 3.51 sec, min 0.00 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 11.49% of total time (compiled   68 times, average 1.54 sec, max 2.10 sec, min 0.99 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.49% of total time (compiled   60 times, average 0.53 sec, max 0.68 sec, min 0.36 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.83% of total time (compiled   23 times, average 1.12 sec, max 1.41 sec, min 0.82 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.37% of total time (compiled   49 times, average 0.44 sec, max 0.64 sec, min 0.31 sec)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: === Material stats ===
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Materials Translated:    140
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Material Translation Only: 0.03 s (20%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.12.05-15.59.51:392][268]LogShaderCompilers: Display: ================================================
+[2024.12.05-15.59.54:022][574]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.05-15.59.54:108][577]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.05-15.59.54:125][578]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.05-15.59.56:249][821]LogSlate: Window 'Open Asset' being destroyed
+[2024.12.05-15.59.56:252][821]LogSlate: Window 'Open Asset' being destroyed
+[2024.12.05-16.02.26:224][198]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.05-16.02.26:240][198]LogAutomationController: Ignoring very large delta of 10.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-16.04.24:808][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3157.971924
+[2024.12.05-16.04.25:808][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.04.25:808][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3158.634766, Update Interval: 336.277954
