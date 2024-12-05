@@ -3017,3 +3017,1156 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.05-16.04.24:808][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3157.971924
 [2024.12.05-16.04.25:808][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.05-16.04.25:808][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3158.634766, Update Interval: 336.277954
+[2024.12.05-16.06.05:527][222]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.06.05:533][222]LogPlayLevel: [PlayLevel] Compiling GuardarInfo before play...
+[2024.12.05-16.06.05:535][222]LogPlayLevel: [PlayLevel] Compiling Instanciador before play...
+[2024.12.05-16.06.05:537][222]LogPlayLevel: [PlayLevel] Compiling GuardarCargar before play...
+[2024.12.05-16.06.05:572][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.05-16.06.05:575][222]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (3 blueprints)
+[2024.12.05-16.06.05:575][222]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-16.06.05:577][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2024.12.05-16.06.05:577][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MEga.MEga to /Game/Levels/UEDPIE_0_MEga.MEga (0.001319s)
+[2024.12.05-16.06.05:587][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.06.05:588][222]LogChaosDD: Creating Chaos Debug Draw Scene for world MEga
+[2024.12.05-16.06.05:589][222]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2024.12.05-16.06.05:589][222]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.06.05:589][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.06.05:589][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.06.05:589][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.06.05:589][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.06.05:589][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.06.05:591][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.06.05:601][222]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.06.05:601][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.06.05:601][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.06.05:601][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.06.05:601][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.05-16.06.05:601][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.05-16.06.05:603][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.05-16.06.05:603][222]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.05-16.06.05:603][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.05-16.06.05:603][222]LogAudio: Display: Audio Device (ID: 10) registered with world 'MEga'.
+[2024.12.05-16.06.05:603][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.05-16.06.05:639][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.06.05:639][222]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.06.05:640][222]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MEga.MEga up for play (max tick rate 0) at 2024.12.05-17.06.05
+[2024.12.05-16.06.05:640][222]LogWorld: Bringing up level for play took: 0.000650
+[2024.12.05-16.06.05:642][222]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.12.05-16.06.05:646][222]PIE: Server logged in
+[2024.12.05-16.06.05:647][222]PIE: Play in editor total start time 0,114 seconds.
+[2024.12.05-16.06.08:981][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.06.08:981][610]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MEga
+[2024.12.05-16.06.08:982][610]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.06.08:991][610]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.06.08:991][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.06.08:998][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.06.09:000][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.06.09:018][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.05-16.06.09:018][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.05-16.06.09:020][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.05-16.06.09:026][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-16.06.09:056][611]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.12.05-16.06.15:536][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.06.22:478][380]LogSlate: Window 'Save Content' being destroyed
+[2024.12.05-16.06.22:484][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.06.22:578][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.05-16.06.22:581][380]LogSavePackage: Moving output files for package: /Game/Levels/MEga
+[2024.12.05-16.06.22:581][380]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MEga8EE83ED546787F5B83634F9E337C2336.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MEga.umap'
+[2024.12.05-16.06.22:591][380]LogFileHelpers: Saving map 'MEga' took 0.047
+[2024.12.05-16.06.22:591][380]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-16.06.22:597][380]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-16.06.22:597][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-16.06.22:600][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-16.06.22:600][380]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar104828AC45F6BBB0391F989B9ED400A7.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-16.06.22:602][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/Instanciador] ([2] browsable assets)...
+[2024.12.05-16.06.22:602][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/Instanciador]
+[2024.12.05-16.06.22:603][380]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/Instanciador
+[2024.12.05-16.06.22:604][380]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Instanciador8D789B0C48462997BFFF13BFCC2B541D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/Instanciador.uasset'
+[2024.12.05-16.06.22:643][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.511 ms (total: 687.984 ms)
+[2024.12.05-16.06.22:643][380]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-16.06.22:645][380]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.06.22:648][380]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EscenaDiego.EscenaDiego
+[2024.12.05-16.06.22:648][380]Cmd: MAP LOAD FILE="../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-16.06.22:691][380]LogWorld: UWorld::CleanupWorld for MEga, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.06.22:691][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.06.22:702][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.06.22:704][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.06.22:705][380]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.06.22:705][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.06.22:716][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-16.06.22:727][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.05-16.06.22:729][380]LogAudio: Display: Audio Device (ID: 1) registered with world 'EscenaDiego'.
+[2024.12.05-16.06.22:729][380]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.06.22:739][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-16.06.22:751][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.05-16.06.22:761][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-16.06.22:761][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,042ms to complete.
+[2024.12.05-16.06.22:827][380]LogContentValidation: Display: Starting to validate 3 assets
+[2024.12.05-16.06.22:827][380]LogContentValidation: Enabled validators:
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.06.22:827][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.06.22:828][380]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-16.06.22:828][380]AssetCheck: /Game/Blueprints/SaveGame/Instanciador Validating asset
+[2024.12.05-16.06.22:847][380]LogAutomationController: Ignoring very large delta of 7.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-16.06.46:593][159]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.06.46:599][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.06.46:599][159]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.06.46:600][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001557s)
+[2024.12.05-16.06.46:600][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001580s)
+[2024.12.05-16.06.46:610][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.06.46:611][159]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.06.46:612][159]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.12.05-16.06.46:613][159]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.06.46:613][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.06.46:613][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.06.46:613][159]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.06.46:613][159]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.06.46:613][159]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.06.46:614][159]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.06.46:624][159]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.06.46:624][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.06.46:624][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.06.46:624][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.06.46:624][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.05-16.06.46:624][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.12.05-16.06.46:626][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.05-16.06.46:626][159]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.05-16.06.46:626][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.05-16.06.46:626][159]LogAudio: Display: Audio Device (ID: 11) registered with world 'EscenaDiego'.
+[2024.12.05-16.06.46:626][159]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.05-16.06.46:655][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.06.46:655][159]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.06.46:656][159]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.06.46
+[2024.12.05-16.06.46:656][159]LogWorld: Bringing up level for play took: 0.000913
+[2024.12.05-16.06.46:658][159]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.12.05-16.06.46:663][159]PIE: Server logged in
+[2024.12.05-16.06.46:664][159]PIE: Play in editor total start time 0,066 seconds.
+[2024.12.05-16.07.16:701][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.07.16:701][306]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.07.16:701][306]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.07.16:716][306]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.07.16:716][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.07.16:718][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.07.16:720][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.07.16:734][306]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.05-16.07.16:734][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.05-16.07.16:735][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.05-16.07.16:740][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.07.16:785][307]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.12.05-16.07.30:593][944]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.12.05-16.07.30:627][945]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.12.05-16.07.37:573][753]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser_C
+[2024.12.05-16.07.37:573][753]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser_C
+[2024.12.05-16.07.37:574][753]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser as actor: PlataformaGeiser_C /Game/Levels/EscenaDiego.EscenaDiego:PersistentLevel.PlataformaGeiser_C_0
+[2024.12.05-16.07.37:575][753]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser as actor: PlataformaGeiser_C /Game/Levels/EscenaDiego.EscenaDiego:PersistentLevel.PlataformaGeiser_C_0
+[2024.12.05-16.07.38:833][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-16.07.38:837][877]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.12.05-16.07.38:840][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser_C
+[2024.12.05-16.07.38:840][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser_C
+[2024.12.05-16.07.38:842][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser as actor: PlataformaGeiser_C /Game/Levels/EscenaDiego.EscenaDiego:PersistentLevel.PlataformaGeiser_C_4
+[2024.12.05-16.07.38:843][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser as actor: PlataformaGeiser_C /Game/Levels/EscenaDiego.EscenaDiego:PersistentLevel.PlataformaGeiser_C_4
+[2024.12.05-16.08.00:485][383]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.08.00:490][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.08.00:490][383]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.00:492][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2024.12.05-16.08.00:492][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001666s)
+[2024.12.05-16.08.00:503][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-16.08.00:509][383]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.08.00:510][383]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2024.12.05-16.08.00:511][383]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.08.00:511][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.08.00:511][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.08.00:511][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.08.00:511][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.08.00:511][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.08.00:512][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.08.00:522][383]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.08.00:522][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.08.00:522][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.08.00:522][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.08.00:523][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.05-16.08.00:523][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.05-16.08.00:524][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.05-16.08.00:524][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.05-16.08.00:524][383]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.05-16.08.00:524][383]LogAudio: Display: Audio Device (ID: 12) registered with world 'EscenaDiego'.
+[2024.12.05-16.08.00:524][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.05-16.08.00:573][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.00:573][383]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.08.00:574][383]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.08.00
+[2024.12.05-16.08.00:575][383]LogWorld: Bringing up level for play took: 0.000930
+[2024.12.05-16.08.00:576][383]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.12.05-16.08.00:581][383]PIE: Server logged in
+[2024.12.05-16.08.00:582][383]PIE: Play in editor total start time 0,093 seconds.
+[2024.12.05-16.08.09:761][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.09:761][372]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.09:761][372]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.08.09:765][372]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.08.09:765][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.09:766][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.08.09:767][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.09:779][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.08.09:779][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.05-16.08.09:779][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.05-16.08.09:781][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.05-16.08.09:785][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.05-16.08.09:834][374]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.12.05-16.08.17:667][309]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.08.17:672][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.08.17:672][309]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.17:673][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001453s)
+[2024.12.05-16.08.17:673][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001471s)
+[2024.12.05-16.08.17:683][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.08.17:684][309]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.08.17:685][309]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.12.05-16.08.17:685][309]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.08.17:685][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.08.17:685][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.08.17:685][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.08.17:685][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.08.17:685][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.08.17:687][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.08.17:696][309]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.08.17:696][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.08.17:696][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.08.17:696][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.08.17:696][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.05-16.08.17:696][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.05-16.08.17:698][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.05-16.08.17:698][309]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.05-16.08.17:698][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.05-16.08.17:698][309]LogAudio: Display: Audio Device (ID: 13) registered with world 'EscenaDiego'.
+[2024.12.05-16.08.17:698][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.05-16.08.17:759][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.17:759][309]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.08.17:760][309]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.08.17
+[2024.12.05-16.08.17:760][309]LogWorld: Bringing up level for play took: 0.001063
+[2024.12.05-16.08.17:762][309]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.12.05-16.08.17:767][309]PIE: Server logged in
+[2024.12.05-16.08.17:768][309]PIE: Play in editor total start time 0,096 seconds.
+[2024.12.05-16.08.30:990][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.30:990][719]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.30:991][719]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.08.30:994][719]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.08.30:994][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.30:996][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.08.30:998][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.31:009][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.05-16.08.31:009][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.05-16.08.31:010][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.05-16.08.31:014][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-16.08.31:088][721]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.12.05-16.08.39:659][736]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.08.39:664][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.08.39:665][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.39:665][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001493s)
+[2024.12.05-16.08.39:665][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001514s)
+[2024.12.05-16.08.39:675][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.08.39:676][736]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.08.39:677][736]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.12.05-16.08.39:678][736]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.08.39:678][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.08.39:678][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.08.39:678][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.08.39:678][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.08.39:678][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.08.39:679][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.08.39:688][736]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.08.39:688][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.08.39:688][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.08.39:688][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.08.39:689][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.05-16.08.39:689][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.05-16.08.39:690][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.05-16.08.39:690][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.05-16.08.39:690][736]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.05-16.08.39:690][736]LogAudio: Display: Audio Device (ID: 14) registered with world 'EscenaDiego'.
+[2024.12.05-16.08.39:690][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.05-16.08.39:738][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.39:738][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.08.39:739][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.08.39
+[2024.12.05-16.08.39:739][736]LogWorld: Bringing up level for play took: 0.000910
+[2024.12.05-16.08.39:741][736]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.12.05-16.08.39:746][736]PIE: Server logged in
+[2024.12.05-16.08.39:747][736]PIE: Play in editor total start time 0,083 seconds.
+[2024.12.05-16.08.45:201][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.08.45:201][302]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.08.45:201][302]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.08.45:206][302]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.08.45:206][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.45:208][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.08.45:210][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.08.45:221][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.05-16.08.45:221][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.05-16.08.45:222][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.05-16.08.45:226][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-16.08.45:274][303]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.12.05-16.09.17:460][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Platforms/PlataformaGeiser.PlataformaGeiser
+[2024.12.05-16.09.17:460][115]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.12.05-16.09.17:496][115]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-16.09.23:254][754]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.12.05-16.09.58:501][946]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.09.58:501][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.09.58:544][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.10.21:518][661]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.12.05-16.10.21:518][661]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.12.05-16.10.48:376][871]Cmd: TRANSACTION UNDO
+[2024.12.05-16.10.48:376][871]LogEditorTransaction: Undo Move Elements
+[2024.12.05-16.10.54:889][595]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.10.54:894][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.10.54:895][595]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.10.54:896][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2024.12.05-16.10.54:896][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001692s)
+[2024.12.05-16.10.54:905][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.10.54:909][595]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.10.54:910][595]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2024.12.05-16.10.54:910][595]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.10.54:910][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.10.54:910][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.10.54:910][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.10.54:910][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.10.54:910][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.10.54:912][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.10.54:921][595]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.10.54:921][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.10.54:921][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.10.54:921][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.10.54:922][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.05-16.10.54:922][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.05-16.10.54:923][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.05-16.10.54:923][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.05-16.10.54:923][595]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.05-16.10.54:923][595]LogAudio: Display: Audio Device (ID: 15) registered with world 'EscenaDiego'.
+[2024.12.05-16.10.54:923][595]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.05-16.10.54:969][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.10.54:969][595]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.10.54:970][595]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.10.54
+[2024.12.05-16.10.54:971][595]LogWorld: Bringing up level for play took: 0.000969
+[2024.12.05-16.10.54:973][595]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.12.05-16.10.54:977][595]PIE: Server logged in
+[2024.12.05-16.10.54:979][595]PIE: Play in editor total start time 0,085 seconds.
+[2024.12.05-16.10.59:451][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3552.627686
+[2024.12.05-16.10.59:597][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.10.59:597][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3552.760742, Update Interval: 308.791168
+[2024.12.05-16.11.30:530][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.11.30:530][234]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.11.30:530][234]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.11.30:536][234]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.11.30:537][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.30:539][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.11.30:542][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.30:553][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.11.30:553][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.05-16.11.30:553][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.05-16.11.30:555][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.05-16.11.30:559][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-16.11.30:607][236]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.12.05-16.11.38:182][136]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/MainMenu.MainMenu
+[2024.12.05-16.11.38:182][136]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.12.05-16.11.38:187][136]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.12.05-16.11.40:698][413]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.11.40:704][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.11.40:704][413]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.11.40:704][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001488s)
+[2024.12.05-16.11.40:705][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001507s)
+[2024.12.05-16.11.40:723][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.11.40:724][413]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.11.40:725][413]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.12.05-16.11.40:725][413]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.11.40:725][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.11.40:725][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.11.40:725][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.11.40:725][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.11.40:725][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.11.40:727][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.11.40:736][413]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.11.40:736][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.11.40:736][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.11.40:736][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.11.40:737][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.05-16.11.40:737][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.05-16.11.40:738][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.05-16.11.40:738][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.05-16.11.40:738][413]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.05-16.11.40:738][413]LogAudio: Display: Audio Device (ID: 16) registered with world 'EscenaDiego'.
+[2024.12.05-16.11.40:738][413]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.05-16.11.40:786][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.11.40:786][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.11.40:787][413]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.11.40
+[2024.12.05-16.11.40:787][413]LogWorld: Bringing up level for play took: 0.000985
+[2024.12.05-16.11.40:789][413]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.12.05-16.11.40:793][413]PIE: Server logged in
+[2024.12.05-16.11.40:793][413]PIE: Play in editor total start time 0,09 seconds.
+[2024.12.05-16.11.44:811][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.11.44:811][815]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.11.44:811][815]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.11.44:814][815]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.11.44:814][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.44:816][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.11.44:818][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.44:829][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.11.44:829][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.05-16.11.44:829][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.05-16.11.44:831][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.05-16.11.44:835][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.11.44:874][818]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.12.05-16.11.47:579][141]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.11.47:584][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.11.47:584][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.11.47:585][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001505s)
+[2024.12.05-16.11.47:585][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001525s)
+[2024.12.05-16.11.47:596][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.05-16.11.47:596][141]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.11.47:597][141]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2024.12.05-16.11.47:598][141]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.11.47:598][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.11.47:598][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.11.47:598][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.11.47:598][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.11.47:598][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.11.47:599][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.11.47:608][141]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.11.47:608][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.11.47:608][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.11.47:608][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.11.47:609][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.05-16.11.47:609][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.05-16.11.47:610][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.05-16.11.47:610][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.05-16.11.47:610][141]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.05-16.11.47:610][141]LogAudio: Display: Audio Device (ID: 17) registered with world 'EscenaDiego'.
+[2024.12.05-16.11.47:610][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.05-16.11.47:650][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.11.47:650][141]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.11.47:651][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.11.47
+[2024.12.05-16.11.47:651][141]LogWorld: Bringing up level for play took: 0.000862
+[2024.12.05-16.11.47:653][141]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.12.05-16.11.47:656][141]PIE: Server logged in
+[2024.12.05-16.11.47:656][141]PIE: Play in editor total start time 0,073 seconds.
+[2024.12.05-16.11.52:411][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.11.52:411][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.11.52:411][617]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.11.52:423][617]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.11.52:423][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.52:424][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.11.52:426][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.11.52:438][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.05-16.11.52:438][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.05-16.11.52:439][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.05-16.11.52:443][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.11.52:490][621]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.12.05-16.12.00:358][560]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.00:358][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.00:363][560]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.00:363][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.00:389][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.12.03:978][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.12.04:066][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.05-16.12.04:074][970]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.04:074][970]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego606FB44C4E8B56A50C176AAA13C917FB.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-16.12.04:083][970]LogFileHelpers: Saving map 'EscenaDiego' took 0.045
+[2024.12.05-16.12.04:088][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.473 ms (total: 798.458 ms)
+[2024.12.05-16.12.04:120][970]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.12.04:120][970]LogContentValidation: Enabled validators:
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.12.04:120][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.12.04:120][970]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-16.12.04:178][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.12.04:245][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.05-16.12.04:251][976]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.04:251][976]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiegoF2C749204A87A3832F2B76804F62FCD9.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-16.12.04:260][976]LogFileHelpers: Saving map 'EscenaDiego' took 0.042
+[2024.12.05-16.12.04:263][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.338 ms (total: 883.797 ms)
+[2024.12.05-16.12.04:321][976]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.12.04:321][976]LogContentValidation: Enabled validators:
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.12.04:321][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.12.04:321][976]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-16.12.04:371][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.12.04:445][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.05-16.12.04:451][981]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.04:451][981]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego1937A57341FDC8151BCCDEB3F4A90733.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-16.12.04:460][981]LogFileHelpers: Saving map 'EscenaDiego' took 0.042
+[2024.12.05-16.12.04:464][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.153 ms (total: 975.950 ms)
+[2024.12.05-16.12.04:517][981]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.12.04:517][981]LogContentValidation: Enabled validators:
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.12.04:517][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.12.04:517][981]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-16.12.04:549][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.12.04:631][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.05-16.12.04:637][984]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.04:637][984]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego2DC360FA4BEF28814AA6C7B64A825C96.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-16.12.04:646][984]LogFileHelpers: Saving map 'EscenaDiego' took 0.042
+[2024.12.05-16.12.04:650][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.376 ms (total: 1.07 sec)
+[2024.12.05-16.12.04:684][984]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.12.04:684][984]LogContentValidation: Enabled validators:
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.12.04:684][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.12.04:684][984]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-16.12.12:826][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.05-16.12.12:827][950]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-16.12.12:830][950]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaMA
+[2024.12.05-16.12.12:831][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EscenaMA.EscenaMA
+[2024.12.05-16.12.12:831][950]Cmd: MAP LOAD FILE="../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaMA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-16.12.12:880][950]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.12:880][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.12:894][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.12.12:896][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.05-16.12.12:897][950]LogWorld: UWorld::CleanupWorld for EscenaMA, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.12:897][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.12:908][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.12.12:918][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.12.12:973][950]LogAudio: Display: Audio Device (ID: 1) registered with world 'EscenaMA'.
+[2024.12.05-16.12.12:973][950]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaMA
+[2024.12.05-16.12.12:981][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-16.12.12:992][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.05-16.12.13:001][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-16.12.13:001][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,038ms to complete.
+[2024.12.05-16.12.15:179][205]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-16.12.15:184][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-16.12.15:184][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaMA
+[2024.12.05-16.12.15:185][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000744s)
+[2024.12.05-16.12.15:185][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaMA.EscenaMA to /Game/Levels/UEDPIE_0_EscenaMA.EscenaMA (0.000766s)
+[2024.12.05-16.12.15:196][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-16.12.15:197][205]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaMA
+[2024.12.05-16.12.15:198][205]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2024.12.05-16.12.15:199][205]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-16.12.15:199][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-16.12.15:199][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-16.12.15:199][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-16.12.15:199][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-16.12.15:199][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-16.12.15:200][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-16.12.15:210][205]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-16.12.15:210][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-16.12.15:210][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-16.12.15:210][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-16.12.15:210][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.05-16.12.15:210][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.05-16.12.15:212][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.05-16.12.15:212][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.05-16.12.15:212][205]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.05-16.12.15:212][205]LogAudio: Display: Audio Device (ID: 18) registered with world 'EscenaMA'.
+[2024.12.05-16.12.15:212][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.05-16.12.15:249][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.12.15:249][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.12.15:250][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaMA.EscenaMA up for play (max tick rate 0) at 2024.12.05-17.12.15
+[2024.12.05-16.12.15:250][205]LogWorld: Bringing up level for play took: 0.000249
+[2024.12.05-16.12.15:251][205]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.12.05-16.12.15:254][205]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.05-16.12.15:254][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.05-16.12.15:256][205]PIE: Server logged in
+[2024.12.05-16.12.15:257][205]PIE: Play in editor total start time 0,074 seconds.
+[2024.12.05-16.12.16:581][358]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/EscenaDiego"
+[2024.12.05-16.12.16:581][358]LogNet: Browse: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.16:581][358]LogLoad: LoadMap: /Game/Levels/EscenaDiego
+[2024.12.05-16.12.16:581][358]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaMA
+[2024.12.05-16.12.16:582][358]LogWorld: UWorld::CleanupWorld for EscenaMA, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.16:582][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.16:634][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.12.16:635][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.12.16:636][358]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-16.12.16:639][358]LogAudio: Display: Audio Device (ID: 18) registered with world 'EscenaDiego'.
+[2024.12.05-16.12.16:639][358]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.12.16:639][358]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2024.12.05-16.12.16:639][358]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-16.12.16:642][358]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-17.12.16
+[2024.12.05-16.12.16:642][358]LogWorld: Bringing up level for play took: 0.002714
+[2024.12.05-16.12.16:644][358]LogLoad: Took 0.062863 seconds to LoadMap(/Game/Levels/EscenaDiego)
+[2024.12.05-16.12.16:644][358]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/EscenaDiego
+[2024.12.05-16.12.22:681][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-16.12.22:681][  1]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-16.12.22:681][  1]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-16.12.22:693][  1]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.12.22:693][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.22:695][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-16.12.22:697][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.12.22:709][  1]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.05-16.12.22:710][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.05-16.12.22:711][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.05-16.12.22:715][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.05-16.12.22:762][  5]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.12.05-16.12.35:371][505]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/MainMenu.MainMenu
+[2024.12.05-16.12.35:371][505]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2024.12.05-16.12.35:375][505]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2024.12.05-16.12.51:176][354]LogDerivedDataCache: C:/Users/Megaluwu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 28 empty folders. Scanned 0 files in 32 folders with total size 0 MiB.
+[2024.12.05-16.13.11:271][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.13.11:272][739]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.05-16.13.11:275][739]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.13.11:278][739]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EscenaDiego.EscenaDiego
+[2024.12.05-16.13.11:278][739]Cmd: MAP LOAD FILE="../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-16.13.11:331][739]LogWorld: UWorld::CleanupWorld for EscenaMA, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.13.11:331][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.13.11:347][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-16.13.11:348][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-16.13.11:349][739]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.13.11:349][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.13.11:362][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.05-16.13.11:430][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.05-16.13.11:433][739]LogAudio: Display: Audio Device (ID: 1) registered with world 'EscenaDiego'.
+[2024.12.05-16.13.11:433][739]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-16.13.11:443][739]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-16.13.11:453][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.05-16.13.11:462][739]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-16.13.11:462][739]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,037ms to complete.
+[2024.12.05-16.13.57:679][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode.FirstPersonGameMode
+[2024.12.05-16.13.57:679][201]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2024.12.05-16.14.09:420][579]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.14.09:420][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.14.09:458][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-16.16.57:234][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3910.419922
+[2024.12.05-16.16.58:233][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.16.58:233][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3911.087891, Update Interval: 308.368164
+[2024.12.05-16.19.27:046][679]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.19.27:046][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.19.27:053][679]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.19.27:053][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.19.27:098][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.05-16.23.03:058][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4276.169922
+[2024.12.05-16.23.03:193][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.23.03:193][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4276.294434, Update Interval: 309.756165
+[2024.12.05-16.25.34:359][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.05-16.25.34:360][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.016
+[2024.12.05-16.25.34:360][ 80]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/Instanciador] ([2] browsable assets)...
+[2024.12.05-16.25.34:360][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/Instanciador]
+[2024.12.05-16.25.34:362][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SaveGame/Instanciador_Auto3
+[2024.12.05-16.25.34:362][ 80]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Instanciador_Auto349B0D0FF48345705764A6F8886A8DB85.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/SaveGame/Instanciador_Auto3.uasset'
+[2024.12.05-16.25.34:365][ 80]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.12.05-16.28.43:299][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4616.301758
+[2024.12.05-16.28.44:299][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.28.44:299][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4616.973145, Update Interval: 309.600525
+[2024.12.05-16.34.24:248][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4957.225586
+[2024.12.05-16.34.24:398][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.34.24:398][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4957.366699, Update Interval: 305.291901
+[2024.12.05-16.36.00:206][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.05-16.36.00:207][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.022
+[2024.12.05-16.36.00:207][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/Instanciador] ([2] browsable assets)...
+[2024.12.05-16.36.00:207][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/Instanciador]
+[2024.12.05-16.36.00:212][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SaveGame/Instanciador_Auto4
+[2024.12.05-16.36.00:212][246]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Instanciador_Auto4F536B35442179766856CC88DB6D3CA3C.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/SaveGame/Instanciador_Auto4.uasset'
+[2024.12.05-16.36.00:212][246]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.12.05-16.36.18:770][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter
+[2024.12.05-16.36.18:771][216]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2024.12.05-16.39.09:145][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.39.09:195][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2024.12.05-16.39.09:253][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter]
+[2024.12.05-16.39.09:253][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2024.12.05-16.39.09:260][615]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter
+[2024.12.05-16.39.09:260][615]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacterD317B1A14BC2B71236F8DE82C85EA4D0.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.uasset'
+[2024.12.05-16.39.09:266][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.788 ms (total: 1.19 sec)
+[2024.12.05-16.39.09:308][615]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.39.09:308][615]LogContentValidation: Enabled validators:
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.39.09:308][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.39.09:308][615]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter Validating asset
+[2024.12.05-16.39.10:092][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.39.10:125][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2024.12.05-16.39.10:125][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2024.12.05-16.39.10:131][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter
+[2024.12.05-16.39.10:131][709]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacterB1723C544C55FD8CB0FE88B0ADB38210.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.uasset'
+[2024.12.05-16.39.10:135][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.895 ms (total: 1.24 sec)
+[2024.12.05-16.39.10:175][709]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.39.10:175][709]LogContentValidation: Enabled validators:
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.39.10:175][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.39.10:175][709]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter Validating asset
+[2024.12.05-16.39.13:071][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.39.13:128][ 51]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/Instanciador] ([2] browsable assets)...
+[2024.12.05-16.39.13:128][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/Instanciador]
+[2024.12.05-16.39.13:132][ 51]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/Instanciador
+[2024.12.05-16.39.13:132][ 51]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Instanciador208D3F4E4D75A063448191837B21E88D.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/Instanciador.uasset'
+[2024.12.05-16.39.13:139][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.705 ms (total: 1.30 sec)
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: Enabled validators:
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.39.13:191][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.39.13:191][ 51]AssetCheck: /Game/Blueprints/SaveGame/Instanciador Validating asset
+[2024.12.05-16.39.14:524][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.05-16.39.16:553][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.39.20:144][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.39.20:175][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-16.39.20:175][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-16.39.20:177][856]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-16.39.20:178][856]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar1B31064145A9692E929A05B9C6C59913.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-16.39.20:182][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.545 ms (total: 1.34 sec)
+[2024.12.05-16.39.20:227][856]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.39.20:227][856]LogContentValidation: Enabled validators:
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.39.20:227][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.39.20:228][856]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-16.39.22:737][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.39.22:823][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.05-16.39.22:831][131]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-16.39.22:831][131]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiegoCA14BF9F4A155065A7F43BB8E3933CEF.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-16.39.22:840][131]LogFileHelpers: Saving map 'EscenaDiego' took 0.046
+[2024.12.05-16.39.22:845][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.306 ms (total: 1.45 sec)
+[2024.12.05-16.39.22:891][131]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-16.39.22:891][131]LogContentValidation: Enabled validators:
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-16.39.22:891][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-16.39.22:892][131]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-16.39.30:836][625]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-16.39.30:837][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-16.39.30:881][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.05-16.40.25:652][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5318.595703
+[2024.12.05-16.40.25:786][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.40.25:786][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5318.720703, Update Interval: 337.984558
+[2024.12.05-16.46.58:883][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5711.741211
+[2024.12.05-16.46.59:884][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.46.59:884][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5712.404785, Update Interval: 355.063324
+[2024.12.05-16.49.22:991][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.05-16.49.22:992][444]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.037
+[2024.12.05-16.49.22:992][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-16.49.22:995][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-16.49.22:995][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-16.49.22:999][444]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto5
+[2024.12.05-16.49.22:999][444]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar_Auto5D69CB039467169CBEC4B8D94F445D7E0.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto5.uasset'
+[2024.12.05-16.49.22:999][444]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.12.05-16.53.53:310][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6126.171875
+[2024.12.05-16.53.54:310][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-16.53.54:310][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6126.838867, Update Interval: 350.895721
+[2024.12.05-17.00.26:973][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6519.808594
+[2024.12.05-17.00.27:114][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.00.27:114][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6519.941895, Update Interval: 300.975983
+[2024.12.05-17.01.56:997][240]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UTextBlock::SetText' [No se ha encontrado el elemento.]
+[2024.12.05-17.03.10:231][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-17.03.10:232][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.114
+[2024.12.05-17.03.10:232][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.03.10:239][984]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.03.10:239][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.03.10:242][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto6
+[2024.12.05-17.03.10:242][984]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar_Auto6661BD14F41E1B0B4EA9C848D427921DF.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto6.uasset'
+[2024.12.05-17.03.10:243][984]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.12.05-17.04.19:057][184]LogSlate: Window 'Delete widget' being destroyed
+[2024.12.05-17.06.28:352][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6881.116211
+[2024.12.05-17.06.29:351][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.06.29:351][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6881.782715, Update Interval: 355.292206
+[2024.12.05-17.08.25:938][188]LogEditorTransaction: Undo Move Widget
+[2024.12.05-17.08.26:511][197]LogEditorTransaction: Undo Move Widget
+[2024.12.05-17.09.12:830][552]LogBlueprint: Error: [AssetLog] C:\Users\Megaluwu\Documents\GitHub\MotoresUnrealGrupo5\MotoresUnrealGrupo5\Content\Blueprints\Menu\GuardarCargar.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2024.12.05-17.09.12:929][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.05-17.12.51:176][907]LogDerivedDataCache: C:/Users/Megaluwu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 0 files in 4 folders with total size 0 MiB.
+[2024.12.05-17.13.02:529][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7275.304688
+[2024.12.05-17.13.03:527][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.13.03:527][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7275.970703, Update Interval: 353.406158
+[2024.12.05-17.13.16:632][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.05-17.13.16:634][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.094
+[2024.12.05-17.13.16:635][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.13.16:637][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.13.16:637][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.13.16:641][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto7
+[2024.12.05-17.13.16:641][836]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar_Auto7347741F44779330C6426B0941E540C0B.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto7.uasset'
+[2024.12.05-17.13.16:642][836]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.12.05-17.17.24:764][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.17.24:819][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.17.24:820][863]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.17.24:820][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.17.24:825][863]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.17.24:825][863]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar7F841A524EF3F3680816F78A2D25F92E.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.17.24:837][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.096 ms (total: 1.52 sec)
+[2024.12.05-17.17.24:886][863]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.17.24:886][863]LogContentValidation: Enabled validators:
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.17.24:886][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.17.24:886][863]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.17.26:406][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.17.26:453][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.17.26:453][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.17.26:457][ 39]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.17.26:457][ 39]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar32ED3D1A45C778470E48969E9C993238.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.17.26:462][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.671 ms (total: 1.58 sec)
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: Enabled validators:
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.17.26:504][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.17.26:504][ 39]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.17.39:530][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.05-17.19.32:400][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7665.157715
+[2024.12.05-17.19.32:559][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.19.32:559][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7665.307617, Update Interval: 333.932312
+[2024.12.05-17.19.35:777][218]LogEditorTransaction: Undo Move Nodes
+[2024.12.05-17.24.31:949][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.05-17.24.31:951][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EscenaDiego' took 0.052
+[2024.12.05-17.24.31:951][942]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.24.31:955][942]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.24.31:955][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.24.31:960][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto8
+[2024.12.05-17.24.31:960][942]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar_Auto8AAC0932545A3ACB81373EA8B71ED6AAD.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Menu/GuardarCargar_Auto8.uasset'
+[2024.12.05-17.24.31:960][942]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.12.05-17.25.50:783][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8043.482422
+[2024.12.05-17.25.50:946][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.25.50:946][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8043.642578, Update Interval: 322.050232
+[2024.12.05-17.29.58:461][992]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.12.05-17.29.58:696][992]LogAutomationController: Ignoring very large delta of 2.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-17.30.16:394][640]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.12.05-17.30.16:397][640]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.12.05-17.31.54:678][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8407.829102
+[2024.12.05-17.31.55:674][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-17.31.55:674][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8408.490234, Update Interval: 358.254944
+[2024.12.05-17.34.19:830][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.34.19:890][479]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.34.19:892][479]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.34.19:892][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.34.19:899][479]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.34.19:899][479]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargarD7E113B648FEEB5CA9E5D0A09DE1AB58.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.34.19:904][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.124 ms (total: 1.65 sec)
+[2024.12.05-17.34.19:953][479]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.34.19:953][479]LogContentValidation: Enabled validators:
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.34.19:953][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.34.19:954][479]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.34.20:469][541]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-17.34.20:476][541]LogPlayLevel: [PlayLevel] Compiling GuardarCargar before play...
+[2024.12.05-17.34.20:476][541]LogBlueprint: Error: [AssetLog] C:\Users\Megaluwu\Documents\GitHub\MotoresUnrealGrupo5\MotoresUnrealGrupo5\Content\Blueprints\Menu\GuardarCargar.uasset: [Compiler] This blueprint (self) is not a Instanciador_C, therefore ' Target ' must have a connection.
+[2024.12.05-17.34.20:541][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.05-17.34.20:543][541]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2024.12.05-17.34.20:543][541]BlueprintLog: Warning: Blueprint failed to compile:  GuardarCargar
+[2024.12.05-17.34.22:953][541]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.12.05-17.34.23:054][541]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-17.34.24:433][696]LogSlate: Window 'Message Log' being destroyed
+[2024.12.05-17.34.24:436][696]LogSlate: Window 'Message Log' being destroyed
+[2024.12.05-17.34.55:883][ 35]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-17.34.55:888][ 35]LogPlayLevel: [PlayLevel] Compiling GuardarCargar before play...
+[2024.12.05-17.34.55:889][ 35]LogBlueprint: Error: [AssetLog] C:\Users\Megaluwu\Documents\GitHub\MotoresUnrealGrupo5\MotoresUnrealGrupo5\Content\Blueprints\Menu\GuardarCargar.uasset: [Compiler] This blueprint (self) is not a Instanciador_C, therefore ' Target ' must have a connection.
+[2024.12.05-17.34.55:955][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.05-17.34.55:957][ 35]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2024.12.05-17.34.55:957][ 35]BlueprintLog: Warning: Blueprint failed to compile:  GuardarCargar
+[2024.12.05-17.35.03:088][ 35]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.12.05-17.35.03:220][ 35]LogAutomationController: Ignoring very large delta of 7.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.05-17.35.04:520][180]LogSlate: Window 'Message Log' being destroyed
+[2024.12.05-17.35.04:524][180]LogSlate: Window 'Message Log' being destroyed
+[2024.12.05-17.35.05:472][292]LogBlueprint: Error: [AssetLog] C:\Users\Megaluwu\Documents\GitHub\MotoresUnrealGrupo5\MotoresUnrealGrupo5\Content\Blueprints\Menu\GuardarCargar.uasset: [Compiler] This blueprint (self) is not a Instanciador_C, therefore ' Target ' must have a connection.
+[2024.12.05-17.35.05:488][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.05-17.35.34:637][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.05-17.35.36:927][886]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-17.35.36:932][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-17.35.36:932][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.35.36:934][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2024.12.05-17.35.36:934][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001862s)
+[2024.12.05-17.35.36:949][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.05-17.35.36:954][886]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-17.35.36:954][886]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2024.12.05-17.35.36:954][886]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-17.35.36:954][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-17.35.36:954][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-17.35.36:956][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-17.35.36:956][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-17.35.36:956][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-17.35.36:957][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-17.35.36:966][886]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-17.35.36:966][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-17.35.36:966][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-17.35.36:966][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-17.35.36:967][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.05-17.35.36:967][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.05-17.35.36:968][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.05-17.35.36:968][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.05-17.35.36:968][886]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.05-17.35.36:968][886]LogAudio: Display: Audio Device (ID: 19) registered with world 'EscenaDiego'.
+[2024.12.05-17.35.36:968][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.05-17.35.36:999][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.35.36:999][886]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-17.35.37:000][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-18.35.37
+[2024.12.05-17.35.37:000][886]LogWorld: Bringing up level for play took: 0.000865
+[2024.12.05-17.35.37:002][886]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.12.05-17.35.37:007][886]PIE: Server logged in
+[2024.12.05-17.35.37:008][886]PIE: Play in editor total start time 0,075 seconds.
+[2024.12.05-17.35.40:360][218]LogWindows: WindowsPlatformFeatures enabled
+[2024.12.05-17.35.41:513][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.35.41:513][337]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.35.41:513][337]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-17.35.41:516][337]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-17.35.41:516][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.35.41:518][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-17.35.41:520][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.35.41:534][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-17.35.41:534][337]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.05-17.35.41:534][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.05-17.35.41:536][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.05-17.35.41:540][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.05-17.35.41:586][338]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.12.05-17.35.46:280][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.35.46:316][901]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.35.46:318][901]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Menu/GuardarCargar.GuardarCargar]
+[2024.12.05-17.35.46:318][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.35.46:324][901]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.35.46:325][901]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar15BE7D014777B6D73431E4A7372C011A.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.35.46:330][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.700 ms (total: 1.70 sec)
+[2024.12.05-17.35.46:388][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.35.46:388][901]LogContentValidation: Enabled validators:
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.35.46:388][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.35.46:389][901]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.36.17:849][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.36.17:883][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.36.17:883][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.36.17:889][823]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.36.17:889][823]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar6A46BC604A124F01982EABAA1EF173FB.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.36.17:894][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.577 ms (total: 1.75 sec)
+[2024.12.05-17.36.17:953][823]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.36.17:953][823]LogContentValidation: Enabled validators:
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.36.17:953][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.36.17:954][823]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.36.18:681][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.36.18:717][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.36.18:717][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.36.18:724][910]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.36.18:724][910]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargar579516FC413EE354C6A65A9F0E43395C.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.36.18:729][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.345 ms (total: 1.80 sec)
+[2024.12.05-17.36.18:768][910]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.36.18:768][910]LogContentValidation: Enabled validators:
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.36.18:768][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.36.18:768][910]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.36.18:871][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.36.18:920][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Menu/GuardarCargar] ([2] browsable assets)...
+[2024.12.05-17.36.18:920][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Menu/GuardarCargar]
+[2024.12.05-17.36.18:926][922]LogSavePackage: Moving output files for package: /Game/Blueprints/Menu/GuardarCargar
+[2024.12.05-17.36.18:926][922]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/GuardarCargarEA4F8FDB4F45AE022B0EAB80509AFC79.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Menu/GuardarCargar.uasset'
+[2024.12.05-17.36.18:931][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.621 ms (total: 1.86 sec)
+[2024.12.05-17.36.18:968][922]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.36.18:968][922]LogContentValidation: Enabled validators:
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.36.18:968][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.36.18:968][922]AssetCheck: /Game/Blueprints/Menu/GuardarCargar Validating asset
+[2024.12.05-17.36.23:128][393]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-17.36.23:134][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-17.36.23:134][393]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.36.23:135][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001510s)
+[2024.12.05-17.36.23:135][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001529s)
+[2024.12.05-17.36.23:147][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.05-17.36.23:150][393]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-17.36.23:151][393]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2024.12.05-17.36.23:151][393]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-17.36.23:151][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-17.36.23:151][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-17.36.23:151][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-17.36.23:151][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-17.36.23:151][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-17.36.23:153][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-17.36.23:162][393]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-17.36.23:162][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-17.36.23:162][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-17.36.23:162][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-17.36.23:162][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.12.05-17.36.23:162][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.12.05-17.36.23:164][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.12.05-17.36.23:164][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.12.05-17.36.23:164][393]LogInit: FAudioDevice initialized with ID 20.
+[2024.12.05-17.36.23:164][393]LogAudio: Display: Audio Device (ID: 20) registered with world 'EscenaDiego'.
+[2024.12.05-17.36.23:164][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.05-17.36.23:196][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.36.23:196][393]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-17.36.23:197][393]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-18.36.23
+[2024.12.05-17.36.23:197][393]LogWorld: Bringing up level for play took: 0.000749
+[2024.12.05-17.36.23:199][393]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.12.05-17.36.23:204][393]PIE: Server logged in
+[2024.12.05-17.36.23:206][393]PIE: Play in editor total start time 0,072 seconds.
+[2024.12.05-17.36.26:363][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.36.26:363][726]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.36.26:363][726]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-17.36.26:367][726]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-17.36.26:367][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.36.26:369][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-17.36.26:371][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.36.26:384][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-17.36.26:385][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.05-17.36.26:385][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.05-17.36.26:386][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.05-17.36.26:390][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.05-17.36.26:442][727]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.12.05-17.36.28:361][952]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.05-17.36.28:366][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.05-17.36.28:366][952]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.36.28:367][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001456s)
+[2024.12.05-17.36.28:367][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.001476s)
+[2024.12.05-17.36.28:378][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.05-17.36.28:380][952]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.05-17.36.28:381][952]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2024.12.05-17.36.28:382][952]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.05-17.36.28:382][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.05-17.36.28:382][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.05-17.36.28:382][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.05-17.36.28:382][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.05-17.36.28:382][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.05-17.36.28:383][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.05-17.36.28:392][952]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR HS70 Pro Wireless Gaming Headset)
+[2024.12.05-17.36.28:392][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.05-17.36.28:392][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.05-17.36.28:392][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.05-17.36.28:392][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.05-17.36.28:392][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.12.05-17.36.28:394][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.05-17.36.28:394][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.05-17.36.28:394][952]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.05-17.36.28:394][952]LogAudio: Display: Audio Device (ID: 21) registered with world 'EscenaDiego'.
+[2024.12.05-17.36.28:394][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.05-17.36.28:454][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.36.28:454][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.05-17.36.28:456][952]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.05-18.36.28
+[2024.12.05-17.36.28:456][952]LogWorld: Bringing up level for play took: 0.001221
+[2024.12.05-17.36.28:458][952]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.12.05-17.36.28:462][952]PIE: Server logged in
+[2024.12.05-17.36.28:464][952]PIE: Play in editor total start time 0,099 seconds.
+[2024.12.05-17.36.30:173][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.05-17.36.30:173][124]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.05-17.36.30:173][124]LogSlate: Window 'MotoresUnrealGrupo5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.05-17.36.30:177][124]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-17.36.30:177][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.36.30:179][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.05-17.36.30:181][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.36.30:194][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.05-17.36.30:194][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.05-17.36.30:197][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.05-17.36.30:202][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.05-17.36.30:254][125]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.12.05-17.36.34:371][610]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Menu/MainMenu.MainMenu
+[2024.12.05-17.36.34:371][610]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2024.12.05-17.36.34:376][610]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2024.12.05-17.37.40:482][842]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-17.37.40:482][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.37.40:487][842]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-17.37.40:487][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-17.37.40:606][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
