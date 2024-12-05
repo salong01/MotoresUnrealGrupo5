@@ -4170,3 +4170,48 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.05-17.37.40:487][842]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
 [2024.12.05-17.37.40:487][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.12.05-17.37.40:606][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.05-17.38.07:042][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.38.07:114][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.05-17.38.07:122][605]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-17.38.07:122][605]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego9E75F7094A86B36F4B1656A035CE9797.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-17.38.07:131][605]LogFileHelpers: Saving map 'EscenaDiego' took 0.050
+[2024.12.05-17.38.07:136][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.231 ms (total: 1.95 sec)
+[2024.12.05-17.38.07:181][605]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.38.07:181][605]LogContentValidation: Enabled validators:
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.38.07:181][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.38.07:181][605]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-17.38.07:243][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.38.07:318][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.05-17.38.07:324][612]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-17.38.07:325][612]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego2FBE288E43BD6BA110DE098BA50BB95C.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-17.38.07:333][612]LogFileHelpers: Saving map 'EscenaDiego' took 0.050
+[2024.12.05-17.38.07:338][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.386 ms (total: 2.05 sec)
+[2024.12.05-17.38.07:382][612]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.38.07:382][612]LogContentValidation: Enabled validators:
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.38.07:382][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.38.07:382][612]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.05-17.38.07:393][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-17.38.07:483][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.05-17.38.07:490][613]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.05-17.38.07:490][613]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiego151DDBF747963769678D2BAE780B2F23.tmp' to '../../../../../../Users/Megaluwu/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.05-17.38.07:499][613]LogFileHelpers: Saving map 'EscenaDiego' took 0.045
+[2024.12.05-17.38.07:504][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.038 ms (total: 2.16 sec)
+[2024.12.05-17.38.07:530][613]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.05-17.38.07:530][613]LogContentValidation: Enabled validators:
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.05-17.38.07:530][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.05-17.38.07:530][613]AssetCheck: /Game/Levels/EscenaDiego Validating asset
