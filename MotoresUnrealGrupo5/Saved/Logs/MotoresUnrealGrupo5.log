@@ -3794,3 +3794,306 @@ Sampler Limit: 32
 [2024.12.12-16.03.22:120][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.12-16.03.22:120][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.12-16.03.22:120][  8]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.12-16.04.15:218][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2344.906250
+[2024.12.12-16.04.16:218][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.12-16.04.16:218][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2345.572510, Update Interval: 341.747498
+[2024.12.12-16.04.19:884][324]LogShaderCompilers: Display: ================================================
+[2024.12.12-16.04.19:884][324]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.12-16.04.19:884][324]LogShaderCompilers: Display: Total job queries 826, among them cache hits 519 (62.83%), DDC hits 180 (21.79%), Duplicates 4 (0.48%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Tracking 303 distinct input hashes that result in 234 distinct outputs (77.23%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: RAM used: 152.22 KiB of 2.40 GiB budget. Usage: 0.01%
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Shaders Compiled: 123
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Jobs assigned 123, completed 123 (100%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Average time worker was idle: 136.43 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.82 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 2.96 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Job life time (pending + execution): average 1.53 s, max 3.06
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Shader code size: average 9.015 KiB, min 2.297 KiB, max 28.145 KiB
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.27 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Jobs were issued in 123 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Total thread time: 99.216 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Total thread preprocess time: 11.923 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Percentage time preprocessing: 12.02%
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.92 sec, max 2.19 sec, min 1.29 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 1.13 sec, max 1.40 sec, min 0.95 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.12 sec, max 1.36 sec, min 0.96 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.10 sec, max 1.33 sec, min 0.92 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 1.08 sec, max 1.35 sec, min 0.91 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.72% of total time (compiled   24 times, average 0.73 sec, max 0.91 sec, min 0.61 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.62% of total time (compiled    6 times, average 1.92 sec, max 2.19 sec, min 1.29 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 11.57% of total time (compiled   11 times, average 1.04 sec, max 1.43 sec, min 0.91 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.05% of total time (compiled   19 times, average 0.47 sec, max 0.60 sec, min 0.40 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.62% of total time (compiled   12 times, average 0.55 sec, max 0.63 sec, min 0.49 sec)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: === Material stats ===
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Materials Translated:    252
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Material Translation Only: 0.05 s (51%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: Material Cache Hits: 26 (10%)
+[2024.12.12-16.04.19:885][324]LogShaderCompilers: Display: ================================================
+[2024.12.12-16.05.01:055][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.12-16.05.01:062][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.12-16.05.01:090][439]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.05.01:096][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006385s)
+[2024.12.12-16.05.01:096][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.006431s)
+[2024.12.12-16.05.01:110][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.12-16.05.01:110][439]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.12-16.05.01:112][439]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2024.12.12-16.05.01:113][439]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.12-16.05.01:113][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.12-16.05.01:113][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.12-16.05.01:113][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.12-16.05.01:113][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.12-16.05.01:113][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.12-16.05.01:115][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.12-16.05.01:138][439]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.12-16.05.01:139][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.12-16.05.01:139][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.12-16.05.01:139][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.12-16.05.01:139][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.12-16.05.01:139][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2024.12.12-16.05.01:142][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.12-16.05.01:142][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.12-16.05.01:142][439]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.12-16.05.01:142][439]LogAudio: Display: Audio Device (ID: 8) registered with world 'EscenaDiego'.
+[2024.12.12-16.05.01:142][439]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.12-16.05.01:145][439]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.12-16.05.01:147][439]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.12-17.05.01
+[2024.12.12-16.05.01:147][439]LogWorld: Bringing up level for play took: 0.002044
+[2024.12.12-16.05.01:150][439]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.12-16.05.01:153][439]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.12-16.05.01:154][439]PIE: Server logged in
+[2024.12.12-16.05.01:155][439]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.12-16.05.06:950][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.05.06:951][905]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.05.06:951][905]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.12-16.05.06:951][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.05.06:955][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.12-16.05.06:956][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.05.06:974][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.05.06:975][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.12-16.05.06:975][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.12-16.05.06:977][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.12-16.05.06:983][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.12-16.05.07:065][906]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.12-16.05.19:614][ 29]LogProxyMaterialUtilities: Warning: Material Lava is missing required Material Parameters UseBaseColor+BaseColorTexture+BaseColorConst|UseDiffuse+DiffuseTexture+DiffuseConst, UseNormal, UseMetallic+MetallicTexture+MetallicConst, UseRoughness+RoughnessTexture+RoughnessConst, UseSpecular+SpecularTexture+SpecularConst, UseOpacity+OpacityTexture+OpacityConst, UseOpacityMask+OpacityMaskTexture+OpacityMaskConst, UseAmbientOcclusion+AmbientOcclusionTexture+AmbientOcclusionConst, UseEmissiveColor+EmissiveColorTexture+EmissiveColorConst|UseEmissive+EmissiveTexture+EmissiveConst, PackedTexture, EmissiveScale, PackMetallic, PackSpecular, PackRoughness
+[2024.12.12-16.05.46:505][620]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.12-16.06.14:920][155]Cmd: TRANSACTION UNDO
+[2024.12.12-16.06.14:920][155]LogEditorTransaction: Undo Select Brush Surface
+[2024.12.12-16.06.15:880][208]Cmd: TRANSACTION UNDO
+[2024.12.12-16.06.15:880][208]LogEditorTransaction: Undo Replace component used material
+[2024.12.12-16.06.31:500][893]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.12-16.06.31:510][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.12-16.06.31:530][893]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.06.31:536][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006223s)
+[2024.12.12-16.06.31:536][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.006269s)
+[2024.12.12-16.06.31:546][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.12-16.06.31:547][893]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.12-16.06.31:548][893]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2024.12.12-16.06.31:549][893]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.12-16.06.31:549][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.12-16.06.31:549][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.12-16.06.31:549][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.12-16.06.31:549][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.12-16.06.31:549][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.12-16.06.31:551][893]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.12-16.06.31:574][893]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.12-16.06.31:575][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.12-16.06.31:575][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.12-16.06.31:575][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.12-16.06.31:575][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.12-16.06.31:575][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2024.12.12-16.06.31:578][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.12-16.06.31:578][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.12-16.06.31:578][893]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.12-16.06.31:578][893]LogAudio: Display: Audio Device (ID: 9) registered with world 'EscenaDiego'.
+[2024.12.12-16.06.31:578][893]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.12-16.06.31:581][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.12-16.06.31:582][893]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.12-17.06.31
+[2024.12.12-16.06.31:583][893]LogWorld: Bringing up level for play took: 0.001739
+[2024.12.12-16.06.31:585][893]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.12-16.06.31:587][893]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.12-16.06.31:588][893]PIE: Server logged in
+[2024.12.12-16.06.31:590][893]PIE: Play in editor total start time 0.08 seconds.
+[2024.12.12-16.07.13:900][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.07.13:900][491]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.07.13:901][491]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.12-16.07.13:901][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.07.13:905][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.12-16.07.13:907][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.07.13:922][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.07.13:923][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.12-16.07.13:923][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.12-16.07.13:925][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.12-16.07.13:931][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.12-16.07.13:971][492]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: ================================================
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Total job queries 844, among them cache hits 523 (61.97%), DDC hits 184 (21.80%), Duplicates 4 (0.47%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Tracking 317 distinct input hashes that result in 241 distinct outputs (76.03%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: RAM used: 154.45 KiB of 2.40 GiB budget. Usage: 0.01%
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Shaders Compiled: 133
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Jobs assigned 133, completed 133 (100%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Average time worker was idle: 135.47 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.82 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 2.96 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 3.06
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Shader code size: average 9.06 KiB, min 2.297 KiB, max 28.145 KiB
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.95 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Jobs were issued in 133 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Total thread time: 107.725 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Total thread preprocess time: 12.15 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Percentage time preprocessing: 11.28%
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.92 sec, max 2.19 sec, min 1.29 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.14 sec, max 1.91 sec, min 0.77 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 1.13 sec, max 1.40 sec, min 0.95 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.12 sec, max 1.36 sec, min 0.96 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.10 sec, max 1.33 sec, min 0.92 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.80% of total time (compiled   27 times, average 0.75 sec, max 1.10 sec, min 0.61 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.70% of total time (compiled    6 times, average 1.92 sec, max 2.19 sec, min 1.29 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.65% of total time (compiled   11 times, average 1.04 sec, max 1.43 sec, min 0.91 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.54% of total time (compiled   21 times, average 0.49 sec, max 0.74 sec, min 0.40 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.41% of total time (compiled   14 times, average 0.57 sec, max 0.82 sec, min 0.49 sec)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: === Material stats ===
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Materials Translated:    252
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Material Translation Only: 0.05 s (51%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: Material Cache Hits: 26 (10%)
+[2024.12.12-16.07.19:892][166]LogShaderCompilers: Display: ================================================
+[2024.12.12-16.07.24:706][688]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/EscenaDiego.EscenaDiego:PersistentLevel.EscenaDiego
+[2024.12.12-16.07.24:706][688]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.12-16.07.24:767][688]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.12-16.07.37:882][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode.FirstPersonGameMode
+[2024.12.12-16.07.37:882][691]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.12-16.07.37:930][691]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.12-16.07.50:414][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.12-16.07.50:507][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.12-16.07.50:530][799]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.12-16.07.50:531][799]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiegoDA87CA16406CB8B8F8BE168CCAB07417.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.12-16.07.50:543][799]LogFileHelpers: Saving map 'EscenaDiego' took 0.104
+[2024.12.12-16.07.50:549][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.110 ms (total: 1.15 sec)
+[2024.12.12-16.07.50:586][799]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.12-16.07.50:586][799]LogContentValidation: Enabled validators:
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.12-16.07.50:586][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.12-16.07.50:586][799]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.12-16.07.50:996][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.12-16.07.51:775][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.12-16.07.51:853][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.12-16.07.51:877][926]LogSavePackage: Moving output files for package: /Game/Levels/EscenaDiego
+[2024.12.12-16.07.51:877][926]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/EscenaDiegoCD7417254B2B7AACEA910F8D59FADDC2.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap'
+[2024.12.12-16.07.51:890][926]LogFileHelpers: Saving map 'EscenaDiego' took 0.091
+[2024.12.12-16.07.51:897][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.273 ms (total: 1.27 sec)
+[2024.12.12-16.07.51:924][926]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.12-16.07.51:924][926]LogContentValidation: Enabled validators:
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.12-16.07.51:924][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.12-16.07.51:924][926]AssetCheck: /Game/Levels/EscenaDiego Validating asset
+[2024.12.12-16.07.52:744][ 17]LogSlate: Window 'EscenaDiego' being destroyed
+[2024.12.12-16.07.52:747][ 17]LogSlate: Window 'EscenaDiego' being destroyed
+[2024.12.12-16.07.52:753][ 17]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.12-16.07.52:753][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.07.52:800][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.12-16.07.55:850][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.12-16.07.55:878][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode] ([2] browsable assets)...
+[2024.12.12-16.07.55:878][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode]
+[2024.12.12-16.07.55:882][364]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode
+[2024.12.12-16.07.55:882][364]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonGameModeD8F8B2A5436CDCDAC732C287B7A7F0BA.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode.uasset'
+[2024.12.12-16.07.55:890][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.365 ms (total: 1.31 sec)
+[2024.12.12-16.07.55:919][364]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.12-16.07.55:919][364]LogContentValidation: Enabled validators:
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.12-16.07.55:919][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.12-16.07.55:919][364]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode Validating asset
+[2024.12.12-16.07.58:773][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.12-16.07.58:783][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.12-16.07.58:783][695]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.07.58:790][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006461s)
+[2024.12.12-16.07.58:790][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.006495s)
+[2024.12.12-16.07.58:807][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.12-16.07.58:808][695]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2024.12.12-16.07.58:810][695]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2024.12.12-16.07.58:810][695]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.12-16.07.58:811][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.12-16.07.58:811][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.12-16.07.58:811][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.12-16.07.58:811][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.12-16.07.58:811][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.12-16.07.58:813][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.12-16.07.58:836][695]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.12-16.07.58:836][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.12-16.07.58:836][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.12-16.07.58:836][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.12-16.07.58:836][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.12-16.07.58:836][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2024.12.12-16.07.58:839][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.12-16.07.58:839][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.12-16.07.58:839][695]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.12-16.07.58:839][695]LogAudio: Display: Audio Device (ID: 10) registered with world 'EscenaDiego'.
+[2024.12.12-16.07.58:839][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.12-16.07.58:843][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.12-16.07.58:844][695]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2024.12.12-17.07.58
+[2024.12.12-16.07.58:845][695]LogWorld: Bringing up level for play took: 0.001790
+[2024.12.12-16.07.58:847][695]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.12.12-16.07.58:850][695]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.12-16.07.58:850][695]PIE: Server logged in
+[2024.12.12-16.07.58:852][695]PIE: Play in editor total start time 0.069 seconds.
+[2024.12.12-16.08.11:946][900]Cmd: quit
+[2024.12.12-16.08.11:947][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.08.11:947][900]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2024.12.12-16.08.11:980][900]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2024.12.12-16.08.11:981][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.08.11:984][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.12-16.08.11:987][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.12-16.08.12:024][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.12-16.08.12:024][900]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.12-16.08.12:024][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.12-16.08.12:026][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.12-16.08.12:031][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.12-16.08.12:034][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.12-16.08.12:099][901]LogPlayLevel: Display: Destroying online subsystem :Context_20
