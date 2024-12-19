@@ -4555,3 +4555,71 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.19-12.12.46:541][ 32]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.16.03:816][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.19-12.16.04:169][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.16.04:189][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.16.04:255][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.16.04:255][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.16.04:263][997]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.16.04:264][997]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretCFD88F1346BDFFE9E29A4E9326B2BD67.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.16.04:271][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.505 ms (total: 4.05 sec)
+[2024.12.19-12.16.04:299][997]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.16.04:299][997]LogContentValidation: Enabled validators:
+[2024.12.19-12.16.04:299][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.16.04:299][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.16.04:300][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.16.04:300][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.16.04:300][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.16.04:300][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.16.04:300][997]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.16.26:834][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-12.16.26:847][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-12.16.26:847][217]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.16.26:856][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008961s)
+[2024.12.19-12.16.26:856][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PruebaEnemigo.PruebaEnemigo to /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo (0.009021s)
+[2024.12.19-12.16.26:875][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.19-12.16.26:880][217]LogChaosDD: Creating Chaos Debug Draw Scene for world PruebaEnemigo
+[2024.12.19-12.16.26:881][217]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2024.12.19-12.16.26:882][217]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-12.16.26:882][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.19-12.16.26:882][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-12.16.26:882][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-12.16.26:882][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-12.16.26:882][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-12.16.26:887][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-12.16.26:911][217]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.19-12.16.26:911][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-12.16.26:912][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-12.16.26:912][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-12.16.26:912][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.12.19-12.16.26:912][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2024.12.19-12.16.26:915][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.12.19-12.16.26:916][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.12.19-12.16.26:916][217]LogInit: FAudioDevice initialized with ID 23.
+[2024.12.19-12.16.26:916][217]LogAudio: Display: Audio Device (ID: 23) registered with world 'PruebaEnemigo'.
+[2024.12.19-12.16.26:916][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.19-12.16.26:919][217]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.19-12.16.26:921][217]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo up for play (max tick rate 0) at 2024.12.19-13.16.26
+[2024.12.19-12.16.26:922][217]LogWorld: Bringing up level for play took: 0.002743
+[2024.12.19-12.16.26:926][217]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.12.19-12.16.26:929][217]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.19-12.16.26:930][217]PIE: Server logged in
+[2024.12.19-12.16.26:931][217]PIE: Play in editor total start time 0.085 seconds.
+[2024.12.19-12.16.38:581][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.16.38:581][100]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.16.38:581][100]LogWorld: UWorld::CleanupWorld for PruebaEnemigo, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.16.38:582][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.16.38:599][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-12.16.38:604][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.16.38:620][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.16.38:620][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.19-12.16.38:620][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.19-12.16.38:622][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.19-12.16.38:630][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.19-12.16.38:694][101]LogPlayLevel: Display: Destroying online subsystem :Context_47
