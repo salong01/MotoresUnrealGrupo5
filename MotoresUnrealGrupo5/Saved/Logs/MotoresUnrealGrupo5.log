@@ -3628,3 +3628,930 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.19-11.38.07:983][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto3
 [2024.12.19-11.38.07:983][285]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacter_Auto39AE157914B45F42BABE6C4BEDAA017C3.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto3.uasset'
 [2024.12.19-11.38.07:984][285]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.12.19-11.41.04:854][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5153.101562
+[2024.12.19-11.41.05:851][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-11.41.05:851][ 72]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5153.767090, Update Interval: 353.803528
+[2024.12.19-11.47.37:291][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5545.558594
+[2024.12.19-11.47.38:291][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-11.47.38:291][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5546.225098, Update Interval: 345.466492
+[2024.12.19-11.49.53:280][911]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.19-11.50.20:895][999]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.19-11.50.20:902][999]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.19-11.50.20:913][  0]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.19-11.50.27:704][815]LogContentBrowser: Attempting asset rename: NewFolder -> Turret_FBX
+[2024.12.19-11.50.27:705][815]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 0 (Found bundle for host: 0xa7495040a80 [serially])
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 7 (Closing connection)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD00CC381-463C-B323-D65C-0DAD84A517BE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=1373cc0c4719222dd94e048f569fb07e%7Cdd7070249a8c43249a0e3d6df901f3d5%7C1efbdc60-add6-4096-ac70-2f4ee666f064&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 12 (  Trying 54.82.200.174:443...)
+[2024.12.19-11.50.29:662][ 33]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (54.82.200.174) port 443)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 15 (SSL reusing session ID)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 26 (Server certificate:)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 33 (using HTTP/1.1)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 35 (Closing connection)
+[2024.12.19-11.50.29:662][ 34]LogHttp: Warning: 00000A7552A58500: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.12.19-11.50.33:633][119]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.33:657][119]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Miguel Ángel Álvarez/Downloads/drive-download-20241219T114921Z-001/Turret_SoloGun_Head.fbx]
+[2024.12.19-11.50.36:487][119]LogSlate: Window 'Import Content' being destroyed
+[2024.12.19-11.50.36:512][119]LogInterchangeEngine: [Pending] Importing
+[2024.12.19-11.50.36:567][120]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.36:598][121]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.36:817][123]LogStaticMesh: Display: Building static mesh Turret_SoloGun_Head (Required Memory Estimate: 2.501432 MB)...
+[2024.12.19-11.50.36:842][123]LogStaticMesh: Adjacency [0.01s], tris: 1594, UVs 1
+[2024.12.19-11.50.36:847][123]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.12.19-11.50.36:847][123]LogStaticMesh: Leaves [0.00s]
+[2024.12.19-11.50.36:899][124]LogStaticMesh: Reduce [0.05s]
+[2024.12.19-11.50.36:918][124]LogStaticMesh: Fallback [0.02s], num tris: 1158
+[2024.12.19-11.50.36:921][124]LogStaticMesh: ConstrainClusters:
+[2024.12.19-11.50.36:921][124]LogStaticMesh:   Input: 27 Clusters, 3355 Triangles and 6755 Vertices
+[2024.12.19-11.50.36:921][124]LogStaticMesh:   Output without splits: 27 Clusters, 3355 Triangles and 6755 Vertices
+[2024.12.19-11.50.36:921][124]LogStaticMesh:   Output with splits: 39 Clusters, 3355 Triangles and 6765 Vertices
+[2024.12.19-11.50.36:921][124]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 39, Slow Path Clusters: 0, 1 Material: 39, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.12.19-11.50.36:922][124]LogStaticMesh: WritePages:
+[2024.12.19-11.50.36:922][124]LogStaticMesh:   Root: GPU size: 31604 bytes. 1 Pages. 31604.000 bytes per page (96.448% utilization).
+[2024.12.19-11.50.36:922][124]LogStaticMesh:   Streaming: GPU size: 49332 bytes. 1 Pages (1 with relative encoding). 49332.000 bytes per page (37.637% utilization).
+[2024.12.19-11.50.36:922][124]LogStaticMesh:   Page data disk size: 68956 bytes. Fixup data size: 296 bytes.
+[2024.12.19-11.50.36:922][124]LogStaticMesh:   Total GPU size: 80936 bytes, Total disk size: 69252 bytes.
+[2024.12.19-11.50.36:922][124]LogStaticMesh: Encode [0.00s]
+[2024.12.19-11.50.36:922][124]LogStaticMesh: Nanite build [0.09s]
+
+[2024.12.19-11.50.36:928][125]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Turret_FBX/Turret_SoloGun_Head.Turret_SoloGun_Head
+[2024.12.19-11.50.37:286][128]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2024.12.19-11.50.37:350][128]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2024.12.19-11.50.37:386][128]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2024.12.19-11.50.37:404][128]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2024.12.19-11.50.37:410][128]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2024.12.19-11.50.37:509][129]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2024.12.19-11.50.37:536][129]LogPSOHitching: Encountered 50 PSO creation hitches so far (19 graphics, 31 compute). 0 of them were precached.
+[2024.12.19-11.50.38:015][159]LogMeshUtilities: Finished distance field build in 1.0s - 77x126x49 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 71% occupied, 531 triangles, Turret_SoloGun_Head
+[2024.12.19-11.50.40:336][353]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Miguel Ánge...20241219T114921Z-001/Turret_SoloGun_Head.fbx]
+[2024.12.19-11.50.40:336][353]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.12.19-11.50.40:336][353]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.12.19-11.50.40:336][353]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Miguel Ángel Álvarez/Downloads/drive-download-20241219T114921Z-001/Turret_TripleGun_Head.fbx]
+[2024.12.19-11.50.40:419][355]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.19-11.50.40:425][355]LogMaterial: Display: Material /Game/Assets/Turret_FBX/M_Turret_SoloGun.M_Turret_SoloGun needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.50.40:712][358]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.40:741][359]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.40:775][361]LogStaticMesh: Display: Building static mesh Turret_TripleGun_Head (Required Memory Estimate: 6.001225 MB)...
+[2024.12.19-11.50.40:800][362]LogStaticMesh: Adjacency [0.00s], tris: 3838, UVs 1
+[2024.12.19-11.50.40:821][364]LogStaticMesh: Clustering [0.02s]. Ratio: 1.266667
+[2024.12.19-11.50.40:822][364]LogStaticMesh: Leaves [0.00s]
+[2024.12.19-11.50.40:968][378]LogStaticMesh: Reduce [0.15s]
+[2024.12.19-11.50.41:027][380]LogStaticMesh: Fallback [0.06s], num tris: 2638
+[2024.12.19-11.50.41:034][381]LogStaticMesh: ConstrainClusters:
+[2024.12.19-11.50.41:034][381]LogStaticMesh:   Input: 69 Clusters, 7741 Triangles and 15468 Vertices
+[2024.12.19-11.50.41:034][381]LogStaticMesh:   Output without splits: 69 Clusters, 7741 Triangles and 15468 Vertices
+[2024.12.19-11.50.41:034][381]LogStaticMesh:   Output with splits: 96 Clusters, 7741 Triangles and 15482 Vertices
+[2024.12.19-11.50.41:034][381]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 96, Slow Path Clusters: 0, 1 Material: 96, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.12.19-11.50.41:039][381]LogStaticMesh: WritePages:
+[2024.12.19-11.50.41:039][381]LogStaticMesh:   Root: GPU size: 31176 bytes. 1 Pages. 31176.000 bytes per page (95.142% utilization).
+[2024.12.19-11.50.41:039][381]LogStaticMesh:   Streaming: GPU size: 156120 bytes. 2 Pages (2 with relative encoding). 78060.000 bytes per page (59.555% utilization).
+[2024.12.19-11.50.41:039][381]LogStaticMesh:   Page data disk size: 159092 bytes. Fixup data size: 608 bytes.
+[2024.12.19-11.50.41:039][381]LogStaticMesh:   Total GPU size: 187296 bytes, Total disk size: 159700 bytes.
+[2024.12.19-11.50.41:039][381]LogStaticMesh: Encode [0.01s]
+[2024.12.19-11.50.41:039][381]LogStaticMesh: Nanite build [0.24s]
+
+[2024.12.19-11.50.41:050][382]LogStaticMesh: Built static mesh [0.28s] /Game/Assets/Turret_FBX/Turret_TripleGun_Head.Turret_TripleGun_Head
+[2024.12.19-11.50.41:801][387]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Miguel Ánge...20241219T114921Z-001/Turret_TripleGun_Head.fbx]
+[2024.12.19-11.50.41:801][387]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.19-11.50.41:801][387]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.19-11.50.41:801][387]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Miguel Ángel Álvarez/Downloads/drive-download-20241219T114921Z-001/Turret_Base_Empty.fbx]
+[2024.12.19-11.50.41:860][391]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.41:877][392]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.42:466][443]LogStaticMesh: Display: Building static mesh Turret_Base_Empty (Required Memory Estimate: 0.673553 MB)...
+[2024.12.19-11.50.42:469][444]LogStaticMesh: Adjacency [0.00s], tris: 428, UVs 1
+[2024.12.19-11.50.42:471][444]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2024.12.19-11.50.42:471][444]LogStaticMesh: Leaves [0.00s]
+[2024.12.19-11.50.42:487][445]LogStaticMesh: Reduce [0.02s]
+[2024.12.19-11.50.42:495][446]LogStaticMesh: Fallback [0.01s], num tris: 330
+[2024.12.19-11.50.42:496][446]LogStaticMesh: ConstrainClusters:
+[2024.12.19-11.50.42:496][446]LogStaticMesh:   Input: 9 Clusters, 806 Triangles and 1442 Vertices
+[2024.12.19-11.50.42:496][446]LogStaticMesh:   Output without splits: 9 Clusters, 806 Triangles and 1442 Vertices
+[2024.12.19-11.50.42:496][446]LogStaticMesh:   Output with splits: 9 Clusters, 806 Triangles and 1442 Vertices
+[2024.12.19-11.50.42:496][446]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.12.19-11.50.42:496][446]LogStaticMesh: WritePages:
+[2024.12.19-11.50.42:496][446]LogStaticMesh:   Root: GPU size: 17368 bytes. 1 Pages. 17368.000 bytes per page (53.003% utilization).
+[2024.12.19-11.50.42:496][446]LogStaticMesh:   Streaming: 0 bytes.
+[2024.12.19-11.50.42:496][447]LogStaticMesh:   Page data disk size: 14512 bytes. Fixup data size: 56 bytes.
+[2024.12.19-11.50.42:496][447]LogStaticMesh:   Total GPU size: 17368 bytes, Total disk size: 14568 bytes.
+[2024.12.19-11.50.42:496][447]LogStaticMesh: Encode [0.00s]
+[2024.12.19-11.50.42:496][447]LogStaticMesh: Nanite build [0.03s]
+
+[2024.12.19-11.50.42:499][447]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Turret_FBX/Turret_Base_Empty.Turret_Base_Empty
+[2024.12.19-11.50.42:530][448]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Miguel Ánge...20241219T114921Z-001/Turret_Base_Empty.fbx]
+[2024.12.19-11.50.42:530][448]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.19-11.50.42:530][448]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.19-11.50.42:530][448]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Miguel Ángel Álvarez/Downloads/drive-download-20241219T114921Z-001/Turret_Base_Main.fbx]
+[2024.12.19-11.50.42:594][453]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.42:611][454]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.42:853][474]LogStaticMesh: Display: Building static mesh Turret_Base_Main (Required Memory Estimate: 1.608949 MB)...
+[2024.12.19-11.50.42:859][474]LogStaticMesh: Adjacency [0.00s], tris: 1022, UVs 1
+[2024.12.19-11.50.42:864][474]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2024.12.19-11.50.42:865][474]LogStaticMesh: Leaves [0.00s]
+[2024.12.19-11.50.42:920][480]LogStaticMesh: Reduce [0.06s]
+[2024.12.19-11.50.42:938][481]LogStaticMesh: Fallback [0.02s], num tris: 804
+[2024.12.19-11.50.42:941][481]LogStaticMesh: ConstrainClusters:
+[2024.12.19-11.50.42:941][481]LogStaticMesh:   Input: 15 Clusters, 1903 Triangles and 3653 Vertices
+[2024.12.19-11.50.42:941][481]LogStaticMesh:   Output without splits: 15 Clusters, 1903 Triangles and 3653 Vertices
+[2024.12.19-11.50.42:941][481]LogStaticMesh:   Output with splits: 20 Clusters, 1903 Triangles and 3655 Vertices
+[2024.12.19-11.50.42:941][481]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 20, Slow Path Clusters: 0, 1 Material: 20, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.12.19-11.50.42:942][481]LogStaticMesh: WritePages:
+[2024.12.19-11.50.42:942][481]LogStaticMesh:   Root: GPU size: 30152 bytes. 1 Pages. 30152.000 bytes per page (92.017% utilization).
+[2024.12.19-11.50.42:942][481]LogStaticMesh:   Streaming: GPU size: 14504 bytes. 1 Pages (1 with relative encoding). 14504.000 bytes per page (11.066% utilization).
+[2024.12.19-11.50.42:942][481]LogStaticMesh:   Page data disk size: 37740 bytes. Fixup data size: 224 bytes.
+[2024.12.19-11.50.42:942][481]LogStaticMesh:   Total GPU size: 44656 bytes, Total disk size: 37964 bytes.
+[2024.12.19-11.50.42:942][481]LogStaticMesh: Encode [0.00s]
+[2024.12.19-11.50.42:942][481]LogStaticMesh: Nanite build [0.08s]
+
+[2024.12.19-11.50.42:948][482]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Turret_FBX/Turret_Base_Main.Turret_Base_Main
+[2024.12.19-11.50.43:461][484]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Miguel Ánge...20241219T114921Z-001/Turret_Base_Main.fbx]
+[2024.12.19-11.50.43:462][484]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.19-11.50.43:462][484]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.19-11.50.43:462][484]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Miguel Ángel Álvarez/Downloads/drive-download-20241219T114921Z-001/Turret_DualGun_Head.fbx]
+[2024.12.19-11.50.43:586][493]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.43:610][494]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.50.43:901][519]LogStaticMesh: Display: Building static mesh Turret_DualGun_Head (Required Memory Estimate: 3.723256 MB)...
+[2024.12.19-11.50.43:918][521]LogStaticMesh: Adjacency [0.00s], tris: 2386, UVs 1
+[2024.12.19-11.50.43:928][522]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2024.12.19-11.50.43:929][522]LogStaticMesh: Leaves [0.00s]
+[2024.12.19-11.50.44:083][536]LogStaticMesh: Reduce [0.15s]
+[2024.12.19-11.50.44:128][540]LogStaticMesh: Fallback [0.05s], num tris: 1736
+[2024.12.19-11.50.44:137][541]LogStaticMesh: ConstrainClusters:
+[2024.12.19-11.50.44:137][541]LogStaticMesh:   Input: 40 Clusters, 5028 Triangles and 11137 Vertices
+[2024.12.19-11.50.44:137][541]LogStaticMesh:   Output without splits: 40 Clusters, 5028 Triangles and 11137 Vertices
+[2024.12.19-11.50.44:137][541]LogStaticMesh:   Output with splits: 71 Clusters, 5028 Triangles and 11157 Vertices
+[2024.12.19-11.50.44:137][541]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 71, Slow Path Clusters: 0, 1 Material: 71, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.12.19-11.50.44:140][541]LogStaticMesh: WritePages:
+[2024.12.19-11.50.44:140][541]LogStaticMesh:   Root: GPU size: 31784 bytes. 1 Pages. 31784.000 bytes per page (96.997% utilization).
+[2024.12.19-11.50.44:140][541]LogStaticMesh:   Streaming: GPU size: 102944 bytes. 1 Pages (1 with relative encoding). 102944.000 bytes per page (78.540% utilization).
+[2024.12.19-11.50.44:140][541]LogStaticMesh:   Page data disk size: 116148 bytes. Fixup data size: 296 bytes.
+[2024.12.19-11.50.44:140][541]LogStaticMesh:   Total GPU size: 134728 bytes, Total disk size: 116444 bytes.
+[2024.12.19-11.50.44:140][541]LogStaticMesh: Encode [0.01s]
+[2024.12.19-11.50.44:140][541]LogStaticMesh: Nanite build [0.22s]
+
+[2024.12.19-11.50.44:147][542]LogStaticMesh: Built static mesh [0.25s] /Game/Assets/Turret_FBX/Turret_DualGun_Head.Turret_DualGun_Head
+[2024.12.19-11.50.44:884][546]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Miguel Ánge...20241219T114921Z-001/Turret_DualGun_Head.fbx]
+[2024.12.19-11.50.44:928][546]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.12.19-11.50.44:928][546]LogInterchangeEngine: [Success] Import Done
+[2024.12.19-11.50.51:325][192]LogMaterial: Display: Material /Game/Assets/Turret_FBX/M_Turret_TripleGun.M_Turret_TripleGun needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.50.51:434][197]LogMaterial: Display: Material /Game/Assets/Turret_FBX/M_Base_Empty.M_Base_Empty needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.50.51:797][210]LogMaterial: Display: Material /Game/Assets/Turret_FBX/M_Base_Stand.M_Base_Stand needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.50.51:946][217]LogMaterial: Display: Material /Game/Assets/Turret_FBX/M_Turret_DualGun.M_Turret_DualGun needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.50.51:952][217]LogShaderCompilers: Display: Cancelled job 0x00000A7486178200 with pending SubmitJob call.
+[2024.12.19-11.50.51:953][217]LogShaderCompilers: Display: Cancelled job 0x00000A748617B400 with pending SubmitJob call.
+[2024.12.19-11.50.51:954][217]LogShaderCompilers: Display: Cancelled job 0x00000A74861BD200 with pending SubmitJob call.
+[2024.12.19-11.50.51:959][217]LogShaderCompilers: Display: Cancelled job 0x00000A74861BE600 with pending SubmitJob call.
+[2024.12.19-11.50.54:164][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.19-11.50.54:168][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PruebaEnemigo' took 0.027
+[2024.12.19-11.50.54:168][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_SoloGun] ([1] browsable assets)...
+[2024.12.19-11.50.54:200][399]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Turret_FBX/M_Turret_SoloGun.M_Turret_SoloGun]
+[2024.12.19-11.50.54:200][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_SoloGun]
+[2024.12.19-11.50.54:202][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_SoloGun_Auto4
+[2024.12.19-11.50.54:202][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_SoloGun_Auto4895A347841D3DE42E70767966EEF4F1B.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_SoloGun_Auto4.uasset'
+[2024.12.19-11.50.54:203][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/Turret_SoloGun_Head] ([1] browsable assets)...
+[2024.12.19-11.50.54:211][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Turret_FBX/Turret_SoloGun_Head.Turret_SoloGun_Head]
+[2024.12.19-11.50.54:211][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_SoloGun_Head]
+[2024.12.19-11.50.54:215][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_SoloGun_Head_Auto4
+[2024.12.19-11.50.54:215][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_SoloGun_Head_Auto4BEEBF2F4476F6668DD0D8A84708D68C8.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_SoloGun_Head_Auto4.uasset'
+[2024.12.19-11.50.54:216][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_TripleGun] ([1] browsable assets)...
+[2024.12.19-11.50.54:222][399]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Turret_FBX/M_Turret_TripleGun.M_Turret_TripleGun]
+[2024.12.19-11.50.54:222][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_TripleGun]
+[2024.12.19-11.50.54:224][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_TripleGun_Auto4
+[2024.12.19-11.50.54:224][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_TripleGun_Auto4A6EE26BF414B31D269CBCCBCDDFDEC1D.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_TripleGun_Auto4.uasset'
+[2024.12.19-11.50.54:226][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/Turret_TripleGun_Head] ([1] browsable assets)...
+[2024.12.19-11.50.54:232][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Turret_FBX/Turret_TripleGun_Head.Turret_TripleGun_Head]
+[2024.12.19-11.50.54:232][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_TripleGun_Head]
+[2024.12.19-11.50.54:237][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_TripleGun_Head_Auto4
+[2024.12.19-11.50.54:237][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_TripleGun_Head_Auto491E528B241C3977537499F83665090F7.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_TripleGun_Head_Auto4.uasset'
+[2024.12.19-11.50.54:239][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/M_Base_Empty] ([1] browsable assets)...
+[2024.12.19-11.50.54:244][399]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Turret_FBX/M_Base_Empty.M_Base_Empty]
+[2024.12.19-11.50.54:244][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Base_Empty]
+[2024.12.19-11.50.54:246][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Base_Empty_Auto4
+[2024.12.19-11.50.54:246][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Base_Empty_Auto40F8F1CE7422A16D0E186EF923F52B339.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Base_Empty_Auto4.uasset'
+[2024.12.19-11.50.54:248][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/Turret_Base_Empty] ([1] browsable assets)...
+[2024.12.19-11.50.54:254][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Turret_FBX/Turret_Base_Empty.Turret_Base_Empty]
+[2024.12.19-11.50.54:254][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_Base_Empty]
+[2024.12.19-11.50.54:257][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Empty_Auto4
+[2024.12.19-11.50.54:257][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_Base_Empty_Auto4334BCFC240BC7157DD3B02A64DE622BD.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Empty_Auto4.uasset'
+[2024.12.19-11.50.54:258][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/M_Base_Stand] ([1] browsable assets)...
+[2024.12.19-11.50.54:264][399]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Turret_FBX/M_Base_Stand.M_Base_Stand]
+[2024.12.19-11.50.54:264][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Base_Stand]
+[2024.12.19-11.50.54:266][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Base_Stand_Auto4
+[2024.12.19-11.50.54:266][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Base_Stand_Auto445D113CF487E3D05151127874CA6599D.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Base_Stand_Auto4.uasset'
+[2024.12.19-11.50.54:267][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/Turret_Base_Main] ([1] browsable assets)...
+[2024.12.19-11.50.54:274][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Turret_FBX/Turret_Base_Main.Turret_Base_Main]
+[2024.12.19-11.50.54:274][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_Base_Main]
+[2024.12.19-11.50.54:277][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Main_Auto4
+[2024.12.19-11.50.54:277][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_Base_Main_Auto4BBFC521B432F263373F9BAB82510EB44.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Main_Auto4.uasset'
+[2024.12.19-11.50.54:279][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_DualGun] ([1] browsable assets)...
+[2024.12.19-11.50.54:285][399]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Turret_FBX/M_Turret_DualGun.M_Turret_DualGun]
+[2024.12.19-11.50.54:285][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_DualGun]
+[2024.12.19-11.50.54:287][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_DualGun_Auto4
+[2024.12.19-11.50.54:287][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_DualGun_Auto437389BE74F00782266B5EDBC98C50F5A.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_DualGun_Auto4.uasset'
+[2024.12.19-11.50.54:288][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Turret_FBX/Turret_DualGun_Head] ([1] browsable assets)...
+[2024.12.19-11.50.54:294][399]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Turret_FBX/Turret_DualGun_Head.Turret_DualGun_Head]
+[2024.12.19-11.50.54:294][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_DualGun_Head]
+[2024.12.19-11.50.54:298][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_DualGun_Head_Auto4
+[2024.12.19-11.50.54:298][399]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_DualGun_Head_Auto41D69487F4EBDA1A4B3B610B6F359CDBB.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_DualGun_Head_Auto4.uasset'
+[2024.12.19-11.50.54:299][399]LogFileHelpers: Auto-saving content packages took 0.131
+[2024.12.19-11.51.16:972][487]LogShaderCompilers: Display: ================================================
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Total job queries 345, among them cache hits 130 (37.68%), DDC hits 172 (49.86%), Duplicates 5 (1.45%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Tracking 210 distinct input hashes that result in 178 distinct outputs (84.76%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: RAM used: 129.70 KiB of 2.40 GiB budget. Usage: 0.01%
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Shaders Compiled: 38
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Average time worker was idle: 1876.77 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Job execution time: average 6.03 s, max 10.76 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Job life time (pending + execution): average 6.09 s, max 10.83
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Shader code size: average 11.018 KiB, min 2.785 KiB, max 21.965 KiB
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.01 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.46 jobs/batch
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Average processing rate: 1.73 jobs/sec
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Total thread time: 72.78 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Total thread preprocess time: 6.467 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Percentage time preprocessing: 8.89%
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Effective parallelization: 3.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 5.69 sec, max 5.69 sec, min 5.69 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 5.49 sec, max 5.49 sec, min 5.49 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 5.36 sec, max 5.36 sec, min 5.36 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 5.30 sec, max 5.30 sec, min 5.30 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 5.10 sec, max 5.10 sec, min 5.10 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.66% of total time (compiled    6 times, average 1.05 sec, max 1.26 sec, min 0.80 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 7.81% of total time (compiled    1 times, average 5.69 sec, max 5.69 sec, min 5.69 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight - 7.54% of total time (compiled    1 times, average 5.49 sec, max 5.49 sec, min 5.49 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 7.37% of total time (compiled    1 times, average 5.36 sec, max 5.36 sec, min 5.36 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.29% of total time (compiled    1 times, average 5.30 sec, max 5.30 sec, min 5.30 sec)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: === Material stats ===
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Materials Translated:    148
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Material Translation Only: 0.03 s (48%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: Material Cache Hits: 23 (16%)
+[2024.12.19-11.51.16:973][487]LogShaderCompilers: Display: ================================================
+[2024.12.19-11.51.26:672][769]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.19-11.51.36:326][ 18]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.19-11.51.36:335][ 18]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.19-11.51.36:343][ 18]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.19-11.51.36:353][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.19-11.51.41:220][567]LogContentBrowser: Attempting asset rename: NewBlueprint -> Turret
+[2024.12.19-11.51.41:228][567]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.19-11.51.52:589][618]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.19-11.52.20:259][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Turret_FBX/Turret.Turret
+[2024.12.19-11.52.20:259][543]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 0 (Found bundle for host: 0xa7495040b40 [serially])
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 7 (Closing connection)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD00CC381-463C-B323-D65C-0DAD84A517BE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=1373cc0c4719222dd94e048f569fb07e%7Cdd7070249a8c43249a0e3d6df901f3d5%7C1efbdc60-add6-4096-ac70-2f4ee666f064&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.19-11.52.27:478][896]LogHttp: Warning: 00000A750D7DF500: libcurl info message cache 13 (Closing connection)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD2B948AF-4CD4-CA29-D65A-698AC090C8C3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 0 (Found bundle for host: 0xa75010806f0 [serially])
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 7 (Closing connection)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.12.19-11.52.27:478][896]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD2B948AF-4CD4-CA29-D65A-698AC090C8C3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2024.12.19-11.52.27:478][897]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 12 (Could not resolve host: api.epicgames.dev)
+[2024.12.19-11.52.27:478][897]LogEOSSDK: Warning: LogHttp: 00000A755032A200: libcurl info message cache 13 (Closing connection)
+[2024.12.19-11.52.27:478][897]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD2B948AF-4CD4-CA29-D65A-698AC090C8C3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2024.12.19-11.52.31:159][267]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.19-11.53.28:671][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.19-11.53.29:268][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.53.29:297][769]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.53.29:305][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.53.29:305][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.53.29:308][769]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.53.29:308][769]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretE2FFE3EB40FAA9F8F5C93599A8C1DA62.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.53.29:317][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.297 ms (total: 3.01 sec)
+[2024.12.19-11.53.29:337][769]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.53.29:337][769]LogContentValidation: Enabled validators:
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.53.29:337][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.53.29:337][769]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.53.45:293][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.53.45:293][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.53.45:295][130]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_0
+[2024.12.19-11.53.45:296][130]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_0
+[2024.12.19-11.53.47:608][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.19-11.53.47:612][351]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2024.12.19-11.53.47:617][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.53.47:618][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.53.47:620][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_1
+[2024.12.19-11.53.47:621][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_1
+[2024.12.19-11.53.51:499][788]Cmd: TRANSACTION UNDO
+[2024.12.19-11.53.51:500][788]LogEditorTransaction: Undo Place Objects
+[2024.12.19-11.54.01:908][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5930.180664
+[2024.12.19-11.54.02:092][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-11.54.02:092][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5930.354980, Update Interval: 355.777466
+[2024.12.19-11.54.15:649][396]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-11.54.15:650][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-11.54.15:714][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.19-11.54.32:664][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.19-11.54.33:148][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.54.33:166][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.54.33:174][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.54.33:174][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.54.33:177][292]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.54.33:178][292]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret485DCC1C432EAB27B25F6ABABECDD702.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.54.33:184][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.042 ms (total: 3.04 sec)
+[2024.12.19-11.54.33:216][292]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.54.33:216][292]LogContentValidation: Enabled validators:
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.54.33:216][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.54.33:216][292]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.54.42:664][328]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.54.42:664][328]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.54.42:666][328]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_2
+[2024.12.19-11.54.42:667][328]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_2
+[2024.12.19-11.54.54:511][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.19-11.54.54:515][564]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2024.12.19-11.54.54:520][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.54.54:520][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.54.54:522][564]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_3
+[2024.12.19-11.54.54:524][564]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_3
+[2024.12.19-11.55.23:363][806]Cmd: TRANSACTION UNDO
+[2024.12.19-11.55.23:363][806]LogEditorTransaction: Undo Place Objects
+[2024.12.19-11.55.33:242][872]LogActorComponent: ReregisterComponent: (/Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_1.Turret_Base_Main) Not currently registered. Aborting.
+[2024.12.19-11.55.33:242][872]LogActorComponent: ReregisterComponent: (/Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_3.Turret_Base_Main) Not currently registered. Aborting.
+[2024.12.19-11.55.34:860][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.19-11.55.35:234][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.55.35:259][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.55.35:264][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.55.35:264][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.55.35:268][ 79]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.55.35:268][ 79]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretF54D62C34F265E414B51C3AF33647083.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.55.35:274][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.326 ms (total: 3.08 sec)
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: Enabled validators:
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.55.35:300][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.55.35:300][ 79]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.55.37:869][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.55.37:869][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.55.37:870][343]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_4
+[2024.12.19-11.55.37:872][343]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_4
+[2024.12.19-11.55.39:435][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.19-11.55.39:439][490]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2024.12.19-11.55.39:444][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.55.39:444][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.55.39:446][490]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_5
+[2024.12.19-11.55.39:447][490]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_5
+[2024.12.19-11.55.40:035][556]Cmd: TRANSACTION UNDO
+[2024.12.19-11.55.40:035][556]LogEditorTransaction: Undo Place Objects
+[2024.12.19-11.55.43:518][904]LogActorComponent: ReregisterComponent: (/Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_3.Turret_Base_Main) Not currently registered. Aborting.
+[2024.12.19-11.55.43:518][904]LogActorComponent: ReregisterComponent: (/Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_1.Turret_Base_Main) Not currently registered. Aborting.
+[2024.12.19-11.55.43:519][904]LogActorComponent: ReregisterComponent: (/Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_5.Turret_Base_Main) Not currently registered. Aborting.
+[2024.12.19-11.55.52:754][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.19-11.55.53:800][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.55.53:824][ 47]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.55.53:837][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.55.53:837][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.55.53:841][ 47]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.55.53:842][ 47]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret5D8B7BD54816F4D535B56DAD26DBE06F.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.55.53:847][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.892 ms (total: 3.13 sec)
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: Enabled validators:
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.55.53:867][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.55.53:867][ 47]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.56.09:705][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.19-11.56.10:207][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.56.10:228][881]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.56.10:235][881]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.56.10:236][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.56.10:239][881]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.56.10:240][881]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretB900D1DF4DB1F81E395431952E86A1BB.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.56.10:245][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.372 ms (total: 3.17 sec)
+[2024.12.19-11.56.10:276][881]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.56.10:276][881]LogContentValidation: Enabled validators:
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.56.10:276][881]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.56.10:276][881]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.56.13:886][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.56.13:887][269]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.56.13:888][269]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_6
+[2024.12.19-11.56.13:889][269]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_6
+[2024.12.19-11.56.17:596][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.19-11.56.17:599][624]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2024.12.19-11.56.17:603][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.56.17:603][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Turret_FBX/Turret.Turret_C
+[2024.12.19-11.56.17:606][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_7
+[2024.12.19-11.56.17:607][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Turret_FBX/Turret.Turret as actor: Turret_C /Game/Levels/PruebaEnemigo.PruebaEnemigo:PersistentLevel.Turret_C_7
+[2024.12.19-11.56.37:123][695]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.19-11.56.37:428][724]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.19-11.56.47:259][718]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.56.47:268][718]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: ================================================
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Total job queries 403, among them cache hits 135 (33.50%), DDC hits 185 (45.91%), Duplicates 9 (2.23%)
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Tracking 259 distinct input hashes that result in 220 distinct outputs (84.94%)
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: RAM used: 152.42 KiB of 2.40 GiB budget. Usage: 0.01%
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Shaders Compiled: 74
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Average time worker was idle: 1597.63 s
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 12.22 s
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Job execution time: average 9.57 s, max 17.65 s
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Job life time (pending + execution): average 10.10 s, max 17.71
+[2024.12.19-11.57.16:980][559]LogShaderCompilers: Display: Shader code size: average 13.318 KiB, min 2.785 KiB, max 24.168 KiB
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.72 s
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.95 jobs/batch
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Average processing rate: 1.86 jobs/sec
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Total thread time: 180.442 s
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Total thread preprocess time: 7.432 s
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Effective parallelization: 4.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 6.56 sec, max 6.56 sec, min 6.56 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 6.42 sec, max 6.42 sec, min 6.42 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 6.33 sec, max 6.33 sec, min 6.33 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 5.94 sec, max 5.94 sec, min 5.94 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 6.33% of total time (compiled    2 times, average 5.71 sec, max 5.74 sec, min 5.69 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 6.28% of total time (compiled    2 times, average 5.67 sec, max 5.97 sec, min 5.36 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.22% of total time (compiled    2 times, average 5.62 sec, max 5.93 sec, min 5.30 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 6.09% of total time (compiled    2 times, average 5.50 sec, max 5.90 sec, min 5.10 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.53% of total time (compiled    2 times, average 4.99 sec, max 5.88 sec, min 4.10 sec)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: === Material stats ===
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Materials Translated:    150
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Material Translation Only: 0.03 s (48%)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2024.12.19-11.57.16:981][559]LogShaderCompilers: Display: ================================================
+[2024.12.19-11.57.20:299][902]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.57.20:308][902]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.57.43:214][ 48]LogMaterial: Display: Material /Game/Materiales/Lava.Lava needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.58.08:765][520]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.19-11.58.08:771][520]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse needed to have new flag set bUsedWithNanite !
+[2024.12.19-11.58.25:169][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.19-11.58.25:767][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.58.25:783][ 42]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([2] browsable assets)...
+[2024.12.19-11.58.25:791][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Turret_FBX/Turret.Turret]
+[2024.12.19-11.58.25:792][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.58.25:795][ 42]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.58.25:796][ 42]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret18E6A18D4D53CC9017DB7DB72BA22728.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.58.25:802][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.984 ms (total: 3.20 sec)
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: Enabled validators:
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.58.25:836][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.58.25:836][ 42]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.58.47:404][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.58.47:483][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.19-11.58.47:510][221]LogSavePackage: Moving output files for package: /Game/Levels/PruebaEnemigo
+[2024.12.19-11.58.47:511][221]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/PruebaEnemigo4E391161424E3F35E76221B545F5A71E.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/PruebaEnemigo.umap'
+[2024.12.19-11.58.47:525][221]LogFileHelpers: Saving map 'PruebaEnemigo' took 0.086
+[2024.12.19-11.58.47:532][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.474 ms (total: 3.33 sec)
+[2024.12.19-11.58.47:557][221]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-11.58.47:557][221]LogContentValidation: Enabled validators:
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.58.47:557][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.58.47:557][221]AssetCheck: /Game/Levels/PruebaEnemigo Validating asset
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.Turret:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.SKEL_Turret_C' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.Turret_C' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.Turret:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.Turret:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.Turret:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.SKEL_Turret_C:UserConstructionScript' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.SKEL_Turret_C:ReceiveTick' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.SKEL_Turret_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:293][205]LogMetaData: Removing '/Game/Blueprints/Characters/Enemies/Turret.SKEL_Turret_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/Turret_FBX/Turret.PackageMetaData'
+[2024.12.19-11.59.52:323][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-11.59.52:323][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-11.59.52:323][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-11.59.52:326][205]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-11.59.52:326][205]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretA92F905D4623E5A779D0F9950D7DF1FE.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-11.59.52:332][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret] ([5] browsable assets)...
+[2024.12.19-11.59.52:332][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret]
+[2024.12.19-11.59.52:333][205]LogSavePackage: Moving output files for package: /Game/Assets/Turret_FBX/Turret
+[2024.12.19-11.59.52:334][205]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret0118C8BB441DE910B1C641B4DD02C80D.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Assets/Turret_FBX/Turret.uasset'
+[2024.12.19-11.59.52:337][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.300 ms (total: 3.34 sec)
+[2024.12.19-11.59.52:355][205]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.19-11.59.52:355][205]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.19-11.59.52:355][205]LogContentValidation: Enabled validators:
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-11.59.52:355][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-11.59.52:355][205]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-11.59.52:355][205]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.59.52:355][205]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.59.52:355][205]AssetCheck: /Game/Assets/Turret_FBX/Turret Validating asset
+[2024.12.19-11.59.57:134][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.19-11.59.59:133][622]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.19-11.59.59:237][622]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Characters/Enemies/TurretEnemy.TurretEnemy
+	Asset Type: Blueprint
+[2024.12.19-11.59.59:459][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.19-11.59.59:519][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.19-11.59.59:538][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.19-11.59.59:556][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.19-12.00.06:357][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.00.06:439][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.19-12.00.06:465][321]LogSavePackage: Moving output files for package: /Game/Levels/PruebaEnemigo
+[2024.12.19-12.00.06:466][321]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/PruebaEnemigoC9F443C3477947259F8A54B0923E6463.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/PruebaEnemigo.umap'
+[2024.12.19-12.00.06:479][321]LogFileHelpers: Saving map 'PruebaEnemigo' took 0.085
+[2024.12.19-12.00.06:484][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.383 ms (total: 3.47 sec)
+[2024.12.19-12.00.06:513][321]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.00.06:513][321]LogContentValidation: Enabled validators:
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.00.06:513][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.00.06:513][321]AssetCheck: /Game/Levels/PruebaEnemigo Validating asset
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: ================================================
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Total job queries 510, among them cache hits 143 (28.04%), DDC hits 195 (38.24%), Duplicates 17 (3.33%)
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Tracking 350 distinct input hashes that result in 300 distinct outputs (85.71%)
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: RAM used: 197.33 KiB of 2.40 GiB budget. Usage: 0.01%
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Shaders Compiled: 155
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Jobs assigned 155, completed 155 (100%)
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Average time worker was idle: 818.82 s
+[2024.12.19-12.00.16:984][430]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 12.22 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Job execution time: average 11.08 s, max 18.30 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Job life time (pending + execution): average 11.55 s, max 18.37
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Shader code size: average 14.801 KiB, min 2.785 KiB, max 24.168 KiB
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 82.59 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Jobs were issued in 67 batches (only local compilation was used), average 2.31 jobs/batch
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Average processing rate: 1.88 jobs/sec
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Total thread time: 437.08 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Total thread preprocess time: 9.252 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Percentage time preprocessing: 2.12%
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Effective parallelization: 5.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 6.37 sec, max 6.56 sec, min 6.20 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    3 times, average 6.23 sec, max 6.42 sec, min 5.93 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    3 times, average 6.00 sec, max 6.33 sec, min 5.72 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 5.82 sec, max 6.10 sec, min 5.44 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    3 times, average 5.79 sec, max 6.24 sec, min 5.17 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.41% of total time (compiled    5 times, average 5.60 sec, max 5.93 sec, min 5.20 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: TBasePassCSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.19% of total time (compiled    5 times, average 5.41 sec, max 5.88 sec, min 4.10 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 5.91% of total time (compiled    5 times, average 5.17 sec, max 5.97 sec, min 3.02 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 5.89% of total time (compiled    5 times, average 5.15 sec, max 5.81 sec, min 3.72 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy - 5.86% of total time (compiled    5 times, average 5.13 sec, max 5.90 sec, min 2.52 sec)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: === Material stats ===
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Materials Translated:    155
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2024.12.19-12.00.16:985][430]LogShaderCompilers: Display: ================================================
+[2024.12.19-12.00.34:068][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6322.364258
+[2024.12.19-12.00.35:069][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-12.00.35:069][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6323.032227, Update Interval: 316.005737
+[2024.12.19-12.04.08:660][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.12.19-12.04.09:319][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.04.09:348][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.04.09:394][995]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.04.09:394][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.04.09:400][995]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.04.09:400][995]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret8E1F50E14DD49A22ED19FDBBEA5FD5BC.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.04.09:407][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.490 ms (total: 3.56 sec)
+[2024.12.19-12.04.09:442][995]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.04.09:442][995]LogContentValidation: Enabled validators:
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.04.09:442][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.04.09:442][995]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.06.20:862][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.19-12.06.21:335][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.06.21:361][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.06.21:442][512]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.06.21:442][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.06.21:448][512]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.06.21:449][512]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/TurretE86BDB5A4DAF5B26B810ABAA5F93B914.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.06.21:456][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.888 ms (total: 3.68 sec)
+[2024.12.19-12.06.21:491][512]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.06.21:491][512]LogContentValidation: Enabled validators:
+[2024.12.19-12.06.21:491][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.06.21:491][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.06.21:492][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.06.21:492][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.06.21:492][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.06.21:492][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.06.21:492][512]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.06.24:350][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6672.639160
+[2024.12.19-12.06.24:508][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-12.06.24:508][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6672.789551, Update Interval: 318.556488
+[2024.12.19-12.08.30:536][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.12.19-12.08.30:959][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.08.30:985][703]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.08.31:027][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.08.31:027][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.08.31:033][703]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.08.31:034][703]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret23CF75EC4643F5F39382DDBAEBEAF999.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.08.31:042][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.841 ms (total: 3.76 sec)
+[2024.12.19-12.08.31:075][703]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.08.31:075][703]LogContentValidation: Enabled validators:
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.08.31:075][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.08.31:075][703]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.10.29:170][865]LogSlate: Took 0.003211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.19-12.11.24:853][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.19-12.11.25:282][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.11.25:308][110]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.11.25:380][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.11.25:380][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.11.25:387][110]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.11.25:388][110]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret31F175F94260CA401457DE8457D6601C.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.11.25:396][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.800 ms (total: 3.88 sec)
+[2024.12.19-12.11.25:427][110]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.11.25:427][110]LogContentValidation: Enabled validators:
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.11.25:427][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.11.25:427][110]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
+[2024.12.19-12.11.28:816][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-12.11.28:825][382]LogPlayLevel: [PlayLevel] Compiling PruebaEnemigo before play...
+[2024.12.19-12.11.28:866][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.19-12.11.28:869][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2024.12.19-12.11.28:890][382]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.11.28:898][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007735s)
+[2024.12.19-12.11.28:898][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PruebaEnemigo.PruebaEnemigo to /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo (0.007779s)
+[2024.12.19-12.11.28:918][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.19-12.11.28:919][382]LogChaosDD: Creating Chaos Debug Draw Scene for world PruebaEnemigo
+[2024.12.19-12.11.28:921][382]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2024.12.19-12.11.28:921][382]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-12.11.28:921][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.19-12.11.28:921][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-12.11.28:921][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-12.11.28:921][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-12.11.28:921][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-12.11.28:925][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-12.11.28:949][382]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.19-12.11.28:950][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-12.11.28:950][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-12.11.28:950][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-12.11.28:950][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.19-12.11.28:950][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2024.12.19-12.11.28:953][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.19-12.11.28:953][382]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.19-12.11.28:953][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.19-12.11.28:953][382]LogAudio: Display: Audio Device (ID: 21) registered with world 'PruebaEnemigo'.
+[2024.12.19-12.11.28:953][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.19-12.11.28:956][382]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.19-12.11.28:959][382]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo up for play (max tick rate 0) at 2024.12.19-13.11.28
+[2024.12.19-12.11.28:960][382]LogWorld: Bringing up level for play took: 0.003098
+[2024.12.19-12.11.28:964][382]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.12.19-12.11.28:967][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.19-12.11.28:968][382]PIE: Server logged in
+[2024.12.19-12.11.28:970][382]PIE: Play in editor total start time 0.145 seconds.
+[2024.12.19-12.11.41:651][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.11.41:651][721]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.11.41:651][721]LogWorld: UWorld::CleanupWorld for PruebaEnemigo, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.11.41:652][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.11.41:671][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-12.11.41:674][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.11.41:688][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.11.41:688][721]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.19-12.11.41:688][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.19-12.11.41:691][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.19-12.11.41:698][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.19-12.11.41:756][722]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.12.19-12.12.06:625][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.19-12.12.06:628][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PruebaEnemigo' took 0.027
+[2024.12.19-12.12.06:628][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materiales/Lava] ([1] browsable assets)...
+[2024.12.19-12.12.06:678][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materiales/Lava.Lava]
+[2024.12.19-12.12.06:678][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materiales/Lava]
+[2024.12.19-12.12.06:681][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materiales/Lava_Auto5
+[2024.12.19-12.12.06:681][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Lava_Auto56469A03540EDF1658FF450A6BCAFC928.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Materiales/Lava_Auto5.uasset'
+[2024.12.19-12.12.06:683][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2024.12.19-12.12.06:690][879]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter]
+[2024.12.19-12.12.06:690][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2024.12.19-12.12.06:703][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto5
+[2024.12.19-12.12.06:704][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacter_Auto50B3239AD425CA33959CF12BC4C34E696.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto5.uasset'
+[2024.12.19-12.12.06:706][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_SoloGun] ([1] browsable assets)...
+[2024.12.19-12.12.06:706][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_SoloGun]
+[2024.12.19-12.12.06:707][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_SoloGun_Auto5
+[2024.12.19-12.12.06:707][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_SoloGun_Auto5252BDABA42262E62CEF7309364978595.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_SoloGun_Auto5.uasset'
+[2024.12.19-12.12.06:708][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret_SoloGun_Head] ([1] browsable assets)...
+[2024.12.19-12.12.06:708][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_SoloGun_Head]
+[2024.12.19-12.12.06:711][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_SoloGun_Head_Auto5
+[2024.12.19-12.12.06:711][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_SoloGun_Head_Auto5E2701D4F4715CEAD60777DAF9ACFC2E9.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_SoloGun_Head_Auto5.uasset'
+[2024.12.19-12.12.06:713][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_TripleGun] ([1] browsable assets)...
+[2024.12.19-12.12.06:713][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_TripleGun]
+[2024.12.19-12.12.06:714][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_TripleGun_Auto5
+[2024.12.19-12.12.06:714][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_TripleGun_Auto5013B44CB432E83044E778CA23E950862.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_TripleGun_Auto5.uasset'
+[2024.12.19-12.12.06:715][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret_TripleGun_Head] ([1] browsable assets)...
+[2024.12.19-12.12.06:715][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_TripleGun_Head]
+[2024.12.19-12.12.06:719][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_TripleGun_Head_Auto5
+[2024.12.19-12.12.06:720][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_TripleGun_Head_Auto5F69FE7CC4DA6CAE0B5B913B1D9609D16.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_TripleGun_Head_Auto5.uasset'
+[2024.12.19-12.12.06:721][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/M_Base_Empty] ([1] browsable assets)...
+[2024.12.19-12.12.06:721][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Base_Empty]
+[2024.12.19-12.12.06:722][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Base_Empty_Auto5
+[2024.12.19-12.12.06:722][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Base_Empty_Auto5FE73AD0C4CF954A2FDA97B9579E800F7.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Base_Empty_Auto5.uasset'
+[2024.12.19-12.12.06:724][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret_Base_Empty] ([1] browsable assets)...
+[2024.12.19-12.12.06:724][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_Base_Empty]
+[2024.12.19-12.12.06:726][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Empty_Auto5
+[2024.12.19-12.12.06:726][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_Base_Empty_Auto56C1764724BAFBEBEC5F9ADB4CEBC693F.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Empty_Auto5.uasset'
+[2024.12.19-12.12.06:727][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/M_Base_Stand] ([1] browsable assets)...
+[2024.12.19-12.12.06:728][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Base_Stand]
+[2024.12.19-12.12.06:729][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Base_Stand_Auto5
+[2024.12.19-12.12.06:729][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Base_Stand_Auto5B793FF684291544155DD7399778C932E.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Base_Stand_Auto5.uasset'
+[2024.12.19-12.12.06:730][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret_Base_Main] ([1] browsable assets)...
+[2024.12.19-12.12.06:730][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_Base_Main]
+[2024.12.19-12.12.06:733][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Main_Auto5
+[2024.12.19-12.12.06:733][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_Base_Main_Auto5B60859C34F07D93A9BD6C9A5F73E8F58.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_Base_Main_Auto5.uasset'
+[2024.12.19-12.12.06:734][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/M_Turret_DualGun] ([1] browsable assets)...
+[2024.12.19-12.12.06:734][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/M_Turret_DualGun]
+[2024.12.19-12.12.06:736][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/M_Turret_DualGun_Auto5
+[2024.12.19-12.12.06:736][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Turret_DualGun_Auto52B53A24F4288B748A22D41B42325CE2B.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/M_Turret_DualGun_Auto5.uasset'
+[2024.12.19-12.12.06:737][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Turret_FBX/Turret_DualGun_Head] ([1] browsable assets)...
+[2024.12.19-12.12.06:737][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Turret_FBX/Turret_DualGun_Head]
+[2024.12.19-12.12.06:740][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Turret_FBX/Turret_DualGun_Head_Auto5
+[2024.12.19-12.12.06:740][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret_DualGun_Head_Auto58DD03C45401494E0F8F8EF8CF3BB3E17.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Assets/Turret_FBX/Turret_DualGun_Head_Auto5.uasset'
+[2024.12.19-12.12.06:742][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Water_Lake] ([1] browsable assets)...
+[2024.12.19-12.12.06:748][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake]
+[2024.12.19-12.12.06:748][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Water_Lake]
+[2024.12.19-12.12.06:753][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Water_Lake_Auto5
+[2024.12.19-12.12.06:753][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Water_Lake_Auto5585D98464FAD103C1F583EAA5115C5D4.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/StarterContent/Materials/M_Water_Lake_Auto5.uasset'
+[2024.12.19-12.12.06:754][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Tech_Hex_Tile] ([1] browsable assets)...
+[2024.12.19-12.12.06:760][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile]
+[2024.12.19-12.12.06:760][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Tech_Hex_Tile]
+[2024.12.19-12.12.06:763][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Tech_Hex_Tile_Auto5
+[2024.12.19-12.12.06:764][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Tech_Hex_Tile_Auto5A9EC94354145293954292E84637876BC.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/StarterContent/Materials/M_Tech_Hex_Tile_Auto5.uasset'
+[2024.12.19-12.12.06:765][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse] ([1] browsable assets)...
+[2024.12.19-12.12.06:771][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse]
+[2024.12.19-12.12.06:771][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse]
+[2024.12.19-12.12.06:774][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse_Auto5
+[2024.12.19-12.12.06:774][879]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/M_Tech_Hex_Tile_Pulse_Auto5EF912A304E76B5212B7E49A14C75101F.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse_Auto5.uasset'
+[2024.12.19-12.12.06:775][879]LogFileHelpers: Auto-saving content packages took 0.147
+[2024.12.19-12.12.15:049][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7023.333496
+[2024.12.19-12.12.15:224][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-12.12.15:225][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7023.500488, Update Interval: 340.167236
+[2024.12.19-12.12.35:967][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-12.12.35:978][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-12.12.36:000][181]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.12.36:008][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007861s)
+[2024.12.19-12.12.36:008][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PruebaEnemigo.PruebaEnemigo to /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo (0.007910s)
+[2024.12.19-12.12.36:035][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.19-12.12.36:037][181]LogChaosDD: Creating Chaos Debug Draw Scene for world PruebaEnemigo
+[2024.12.19-12.12.36:038][181]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2024.12.19-12.12.36:039][181]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-12.12.36:039][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.19-12.12.36:039][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-12.12.36:039][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-12.12.36:039][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-12.12.36:039][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-12.12.36:043][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-12.12.36:067][181]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.12.19-12.12.36:067][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-12.12.36:067][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-12.12.36:067][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-12.12.36:068][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.12.19-12.12.36:068][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.12.19-12.12.36:070][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.12.19-12.12.36:070][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.12.19-12.12.36:070][181]LogInit: FAudioDevice initialized with ID 22.
+[2024.12.19-12.12.36:070][181]LogAudio: Display: Audio Device (ID: 22) registered with world 'PruebaEnemigo'.
+[2024.12.19-12.12.36:071][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.19-12.12.36:074][181]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.12.19-12.12.36:076][181]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PruebaEnemigo.PruebaEnemigo up for play (max tick rate 0) at 2024.12.19-13.12.36
+[2024.12.19-12.12.36:077][181]LogWorld: Bringing up level for play took: 0.003114
+[2024.12.19-12.12.36:081][181]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.12.19-12.12.36:084][181]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.12.19-12.12.36:085][181]PIE: Server logged in
+[2024.12.19-12.12.36:086][181]PIE: Play in editor total start time 0.109 seconds.
+[2024.12.19-12.12.44:420][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.12.44:420][846]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PruebaEnemigo
+[2024.12.19-12.12.44:421][846]LogWorld: UWorld::CleanupWorld for PruebaEnemigo, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.12.44:421][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.12.44:441][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-12.12.44:444][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.12.44:458][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.12.44:458][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.19-12.12.44:458][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.19-12.12.44:460][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.19-12.12.44:468][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.19-12.12.44:531][847]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.12.19-12.12.45:933][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.19-12.12.46:440][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.12.46:458][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/Turret] ([2] browsable assets)...
+[2024.12.19-12.12.46:497][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/Turret.Turret]
+[2024.12.19-12.12.46:497][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/Turret]
+[2024.12.19-12.12.46:504][ 32]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/Turret
+[2024.12.19-12.12.46:505][ 32]LogSavePackage: Moving '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Turret7B9594EF41CA520393467DB51E26F97E.tmp' to '../../../../../../Users/Miguel Ángel Álvarez/Documents/GitHub/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/Enemies/Turret.uasset'
+[2024.12.19-12.12.46:512][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.684 ms (total: 3.95 sec)
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: Enabled validators:
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.12.46:541][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.19-12.12.46:541][ 32]AssetCheck: /Game/Blueprints/Characters/Enemies/Turret Validating asset
