@@ -1,1 +1,7 @@
 #gitgnore file
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
