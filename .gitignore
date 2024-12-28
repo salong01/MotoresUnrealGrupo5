@@ -1,7 +1,7 @@
 #gitgnore file
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+MotoresUnrealGrupo5/[Bb]uild
+MotoresUnrealGrupo5/[Bb]uilds
+MotoresUnrealGrupo5/Binaries
+MotoresUnrealGrupo5/DerivedDataCache
+MotoresUnrealGrupo5/Intermediate
+MotoresUnrealGrupo5/Saved
