@@ -9447,3 +9447,574 @@ Make sure '/Game/Levels/MapaBien.MapaBien_C' has been compiled for  Get BPSave1
 [2025.01.04-17.59.26:030][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.04-17.59.26:030][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.04-17.59.26:031][ 53]AssetCheck: /Game/Levels/MapaBien Validating asset
+[2025.01.04-18.00.03:283][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.04-18.00.03:300][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.04-18.00.03:300][778]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.03:347][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047521s)
+[2025.01.04-18.00.03:347][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MapaBien.MapaBien to /Game/Levels/UEDPIE_0_MapaBien.MapaBien (0.047578s)
+[2025.01.04-18.00.03:370][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.04-18.00.03:372][778]LogChaosDD: Creating Chaos Debug Draw Scene for world MapaBien
+[2025.01.04-18.00.03:374][778]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2025.01.04-18.00.03:374][778]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.04-18.00.03:375][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.04-18.00.03:375][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.04-18.00.03:375][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.04-18.00.03:375][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.04-18.00.03:375][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.04-18.00.03:378][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.04-18.00.03:406][778]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.01.04-18.00.03:406][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.04-18.00.03:406][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.04-18.00.03:406][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.04-18.00.03:407][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.01.04-18.00.03:407][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.01.04-18.00.03:409][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.01.04-18.00.03:409][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.01.04-18.00.03:409][778]LogInit: FAudioDevice initialized with ID 16.
+[2025.01.04-18.00.03:409][778]LogAudio: Display: Audio Device (ID: 16) registered with world 'MapaBien'.
+[2025.01.04-18.00.03:409][778]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.04-18.00.03:412][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2025.01.04-18.00.03:438][778]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MapaBien.MapaBien up for play (max tick rate 0) at 2025.01.04-19.00.03
+[2025.01.04-18.00.03:438][778]LogWorld: Bringing up level for play took: 0.026357
+[2025.01.04-18.00.03:441][778]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.01.04-18.00.03:452][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.01.04-18.00.03:452][778]LogBlueprintUserMessages: [MapaBien_C_3] hola!! soy un verdadero
+[2025.01.04-18.00.03:454][778]PIE: Server logged in
+[2025.01.04-18.00.03:455][778]PIE: Play in editor total start time 0,156 seconds.
+[2025.01.04-18.00.03:462][778]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.03:506][779]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.07:780][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.07:780][ 94]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.07:780][ 94]LogWorld: UWorld::CleanupWorld for MapaBien, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.00.07:787][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.07:791][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.04-18.00.07:797][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.07:818][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.04-18.00.07:818][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.04-18.00.07:818][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.04-18.00.07:820][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.04-18.00.07:825][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.07:833][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.01.04-18.00.07:937][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.01.04-18.00.12:219][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.04-18.00.12:235][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.04-18.00.12:235][414]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.12:276][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041882s)
+[2025.01.04-18.00.12:276][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MapaBien.MapaBien to /Game/Levels/UEDPIE_0_MapaBien.MapaBien (0.041913s)
+[2025.01.04-18.00.12:295][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.04-18.00.12:296][414]LogChaosDD: Creating Chaos Debug Draw Scene for world MapaBien
+[2025.01.04-18.00.12:298][414]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2025.01.04-18.00.12:298][414]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.01.04-18.00.12:298][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.04-18.00.12:298][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.04-18.00.12:298][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.04-18.00.12:299][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.04-18.00.12:299][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.04-18.00.12:299][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.04-18.00.12:299][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.04-18.00.12:299][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.04-18.00.12:299][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.04-18.00.12:299][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.04-18.00.12:299][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.04-18.00.12:301][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.04-18.00.12:325][414]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.01.04-18.00.12:325][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.04-18.00.12:325][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.04-18.00.12:325][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.04-18.00.12:326][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.01.04-18.00.12:326][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.01.04-18.00.12:328][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.01.04-18.00.12:328][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.01.04-18.00.12:328][414]LogInit: FAudioDevice initialized with ID 17.
+[2025.01.04-18.00.12:328][414]LogAudio: Display: Audio Device (ID: 17) registered with world 'MapaBien'.
+[2025.01.04-18.00.12:328][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.04-18.00.12:331][414]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2025.01.04-18.00.12:355][414]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MapaBien.MapaBien up for play (max tick rate 0) at 2025.01.04-19.00.12
+[2025.01.04-18.00.12:356][414]LogWorld: Bringing up level for play took: 0.024843
+[2025.01.04-18.00.12:358][414]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.01.04-18.00.12:367][414]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.01.04-18.00.12:367][414]LogBlueprintUserMessages: [MapaBien_C_3] hola!! soy un verdadero
+[2025.01.04-18.00.12:369][414]PIE: Server logged in
+[2025.01.04-18.00.12:370][414]PIE: Play in editor total start time 0,136 seconds.
+[2025.01.04-18.00.12:378][414]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.12:423][415]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.17:320][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.17:320][755]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.17:321][755]LogWorld: UWorld::CleanupWorld for MapaBien, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.00.17:327][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.17:331][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.04-18.00.17:337][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.17:357][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.17:360][755]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.04-18.00.17:360][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.04-18.00.17:362][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.04-18.00.17:374][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.01.04-18.00.17:476][756]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.01.04-18.00.30:855][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.04-18.00.30:869][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.04-18.00.30:890][916]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.30:932][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042618s)
+[2025.01.04-18.00.30:932][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MapaBien.MapaBien to /Game/Levels/UEDPIE_0_MapaBien.MapaBien (0.042656s)
+[2025.01.04-18.00.30:954][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.04-18.00.30:956][916]LogChaosDD: Creating Chaos Debug Draw Scene for world MapaBien
+[2025.01.04-18.00.30:958][916]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2025.01.04-18.00.30:959][916]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.04-18.00.30:959][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.04-18.00.30:959][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.04-18.00.30:959][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.04-18.00.30:959][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.04-18.00.30:959][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.04-18.00.30:961][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.04-18.00.30:986][916]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.01.04-18.00.30:986][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.04-18.00.30:986][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.04-18.00.30:986][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.04-18.00.30:987][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.01.04-18.00.30:987][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.01.04-18.00.30:989][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.01.04-18.00.30:989][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.01.04-18.00.30:989][916]LogInit: FAudioDevice initialized with ID 18.
+[2025.01.04-18.00.30:989][916]LogAudio: Display: Audio Device (ID: 18) registered with world 'MapaBien'.
+[2025.01.04-18.00.30:989][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.04-18.00.30:992][916]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2025.01.04-18.00.31:016][916]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MapaBien.MapaBien up for play (max tick rate 0) at 2025.01.04-19.00.31
+[2025.01.04-18.00.31:017][916]LogWorld: Bringing up level for play took: 0.023930
+[2025.01.04-18.00.31:019][916]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.01.04-18.00.31:029][916]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.01.04-18.00.31:029][916]LogBlueprintUserMessages: [MapaBien_C_3] hola!! soy un verdadero
+[2025.01.04-18.00.31:031][916]PIE: Server logged in
+[2025.01.04-18.00.31:032][916]PIE: Play in editor total start time 0,163 seconds.
+[2025.01.04-18.00.31:038][916]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.31:086][917]LogBlueprintUserMessages: [MapaBien_C_3] GAME SAVED
+[2025.01.04-18.00.43:430][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.43:430][775]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MapaBien
+[2025.01.04-18.00.43:431][775]LogWorld: UWorld::CleanupWorld for MapaBien, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.00.43:438][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.43:442][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.04-18.00.43:448][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.00.43:470][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.00.43:472][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.04-18.00.43:473][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.04-18.00.43:474][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.04-18.00.43:488][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.01.04-18.00.43:589][776]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.01.04-18.01.02:071][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.04-18.01.02:073][353]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.04-18.01.02:138][353]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2025.01.04-18.01.02:158][353]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EscenaDiego.EscenaDiego
+[2025.01.04-18.01.02:158][353]Cmd: MAP LOAD FILE="C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/EscenaDiego.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.04-18.01.02:273][353]LogWorld: UWorld::CleanupWorld for MapaBien, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.01.02:274][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.02:295][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.04-18.01.02:306][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.01.04-18.01.02:310][353]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.01.02:311][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.02:334][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.04-18.01.02:357][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.04-18.01.02:420][353]LogAudio: Display: Audio Device (ID: 1) registered with world 'EscenaDiego'.
+[2025.01.04-18.01.02:420][353]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2025.01.04-18.01.02:466][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.04-18.01.02:492][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.01.04-18.01.02:515][353]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.04-18.01.02:515][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2025.01.04-18.01.03:192][400]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.04-18.01.03:207][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.04-18.01.03:230][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2025.01.04-18.01.03:245][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015207s)
+[2025.01.04-18.01.03:245][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.015246s)
+[2025.01.04-18.01.03:269][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.04-18.01.03:272][400]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2025.01.04-18.01.03:275][400]LogPlayLevel: PIE: World Init took: (0.002678s)
+[2025.01.04-18.01.03:276][400]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.04-18.01.03:276][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.04-18.01.03:276][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.04-18.01.03:276][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.04-18.01.03:276][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.04-18.01.03:276][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.04-18.01.03:278][400]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.04-18.01.03:310][400]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.01.04-18.01.03:310][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.04-18.01.03:310][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.04-18.01.03:310][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.04-18.01.03:310][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.01.04-18.01.03:310][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.01.04-18.01.03:314][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.01.04-18.01.03:314][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.01.04-18.01.03:314][400]LogInit: FAudioDevice initialized with ID 19.
+[2025.01.04-18.01.03:314][400]LogAudio: Display: Audio Device (ID: 19) registered with world 'EscenaDiego'.
+[2025.01.04-18.01.03:314][400]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.04-18.01.03:317][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2025.01.04-18.01.03:322][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2025.01.04-19.01.03
+[2025.01.04-18.01.03:323][400]LogWorld: Bringing up level for play took: 0.005972
+[2025.01.04-18.01.03:326][400]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.01.04-18.01.03:330][400]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.01.04-18.01.03:330][400]LogBlueprintUserMessages: [EscenaDiego_C_0] hola!! soy un verdadero
+[2025.01.04-18.01.03:333][400]PIE: Server logged in
+[2025.01.04-18.01.03:334][400]PIE: Play in editor total start time 0,127 seconds.
+[2025.01.04-18.01.04:620][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.01.04:620][506]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2025.01.04-18.01.04:620][506]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.01.04:621][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.04:625][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.04-18.01.04:631][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.04:651][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.01.04:652][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.04-18.01.04:652][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.04-18.01.04:654][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.04-18.01.04:663][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.01.04-18.01.04:710][507]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.01.04-18.01.05:440][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.04-18.01.05:456][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.04-18.01.05:456][572]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EscenaDiego
+[2025.01.04-18.01.05:470][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014181s)
+[2025.01.04-18.01.05:470][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EscenaDiego.EscenaDiego to /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego (0.014213s)
+[2025.01.04-18.01.05:489][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.04-18.01.05:490][572]LogChaosDD: Creating Chaos Debug Draw Scene for world EscenaDiego
+[2025.01.04-18.01.05:492][572]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2025.01.04-18.01.05:493][572]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.04-18.01.05:493][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.04-18.01.05:493][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.04-18.01.05:493][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.04-18.01.05:493][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.04-18.01.05:493][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.04-18.01.05:495][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.04-18.01.05:519][572]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2025.01.04-18.01.05:520][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.04-18.01.05:520][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.04-18.01.05:520][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.04-18.01.05:520][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.01.04-18.01.05:520][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.01.04-18.01.05:523][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.01.04-18.01.05:523][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.01.04-18.01.05:523][572]LogInit: FAudioDevice initialized with ID 20.
+[2025.01.04-18.01.05:523][572]LogAudio: Display: Audio Device (ID: 20) registered with world 'EscenaDiego'.
+[2025.01.04-18.01.05:523][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.04-18.01.05:525][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2025.01.04-18.01.05:530][572]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EscenaDiego.EscenaDiego up for play (max tick rate 0) at 2025.01.04-19.01.05
+[2025.01.04-18.01.05:530][572]LogWorld: Bringing up level for play took: 0.004721
+[2025.01.04-18.01.05:532][572]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.01.04-18.01.05:536][572]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.01.04-18.01.05:536][572]LogBlueprintUserMessages: [EscenaDiego_C_0] hola!! soy un verdadero
+[2025.01.04-18.01.05:538][572]PIE: Server logged in
+[2025.01.04-18.01.05:539][572]PIE: Play in editor total start time 0,083 seconds.
+[2025.01.04-18.01.07:210][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.01.07:210][708]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EscenaDiego
+[2025.01.04-18.01.07:210][708]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.01.07:211][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.07:215][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.04-18.01.07:221][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.01.07:237][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.04-18.01.07:238][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.04-18.01.07:238][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.04-18.01.07:240][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.04-18.01.07:249][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.04-18.01.07:305][709]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.01.04-18.01.28:573][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveGame/BP_Save.BP_Save
+[2025.01.04-18.01.28:573][878]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.01.04-18.01.51:573][568]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.01.04-18.03.12:676][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.04-18.03.13:095][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.03.13:131][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/BP_Save] ([2] browsable assets)...
+[2025.01.04-18.03.13:131][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/BP_Save]
+[2025.01.04-18.03.13:341][211]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/BP_Save
+[2025.01.04-18.03.13:342][211]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/BP_SaveFE55C3DB42DE6DDEEBBFDA855F4E047D.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/BP_Save.uasset'
+[2025.01.04-18.03.13:352][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.121 ms (total: 3.25 sec)
+[2025.01.04-18.03.13:414][211]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.03.13:414][211]LogContentValidation: Enabled validators:
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.03.13:414][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.03.13:414][211]AssetCheck: /Game/Blueprints/SaveGame/BP_Save Validating asset
+[2025.01.04-18.04.10:310][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 971.899536
+[2025.01.04-18.04.11:309][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.04-18.04.11:309][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 972.564880, Update Interval: 311.149628
+[2025.01.04-18.05.39:826][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.04-18.05.49:254][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.01.04-18.05.50:688][794]LogSlate: Window 'Save Content' being destroyed
+[2025.01.04-18.05.50:696][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.05.50:747][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode] ([2] browsable assets)...
+[2025.01.04-18.05.50:747][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode]
+[2025.01.04-18.05.50:758][794]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode
+[2025.01.04-18.05.50:758][794]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonGameMode19F9AA524069BB9E9C9856B9B83379F5.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode.uasset'
+[2025.01.04-18.05.50:814][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.665 ms (total: 3.37 sec)
+[2025.01.04-18.05.50:814][794]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.04-18.05.50:933][794]LogChaosDD: Creating Chaos Debug Draw Scene for world MapaBien
+[2025.01.04-18.05.51:010][794]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MapaBien.MapaBien
+[2025.01.04-18.05.51:010][794]Cmd: MAP LOAD FILE="C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MapaBien.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.04-18.05.51:063][794]LogWorld: UWorld::CleanupWorld for EscenaDiego, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.05.51:063][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.05.51:091][794]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.04-18.05.51:097][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.01.04-18.05.51:102][794]LogWorld: UWorld::CleanupWorld for MapaBien, bSessionEnded=true, bCleanupResources=true
+[2025.01.04-18.05.51:104][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.04-18.05.51:134][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.01.04-18.05.51:157][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.04-18.05.51:273][794]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapaBien'.
+[2025.01.04-18.05.51:274][794]LogChaosDD: Creating Chaos Debug Draw Scene for world MapaBien
+[2025.01.04-18.05.51:412][794]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.04-18.05.51:445][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.04-18.05.51:466][794]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.04-18.05.51:467][794]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,191ms to complete.
+[2025.01.04-18.05.51:545][794]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.05.51:545][794]LogContentValidation: Enabled validators:
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.05.51:545][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.05.51:545][794]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonGameMode Validating asset
+[2025.01.04-18.05.51:633][794]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.04-18.06.11:866][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.04-18.07.36:583][641]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.01.04-18.08.54:796][424]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MapaBien.MapaBien:PersistentLevel.MapaBien
+[2025.01.04-18.08.54:797][424]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2025.01.04-18.09.34:595][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1296.187256
+[2025.01.04-18.09.34:749][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.04-18.09.34:749][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1296.327393, Update Interval: 348.663605
+[2025.01.04-18.10.57:205][687]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.04-18.11.35:017][ 80]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.01.04-18.11.35:054][ 80]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.037 s
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: === Handled ensure: ===
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: 
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: Ensure condition failed: CategoryChain.IsEmpty()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphSchema.cpp] [Line: 106] 
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: 
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: Stack: 
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc14434ed7 UnrealEditor-Engine.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc14434b7d UnrealEditor-Engine.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0d5d99c4 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0d5d0b8e UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0d6aac9e UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0d6aa785 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0d6ee0bb UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc0da5ba14 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc1237b3b1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc12296bf9 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc122abca4 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc1237d00a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc1279a046 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc1279a520 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc127b892e UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc1279a611 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc127d6d11 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc127d677a UnrealEditor-Slate.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceac78f0 UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceae57ac UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceae589a UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceae9114 UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceafbd04 UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ff6ceaff0ba UnrealEditor.exe!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc8e297374 KERNEL32.DLL!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: [Callstack] 0x00007ffc9011cc91 ntdll.dll!UnknownFunction []
+[2025.01.04-18.11.35:054][ 80]LogOutputDevice: Error: 
+[2025.01.04-18.11.35:061][ 80]LogStats:                SubmitErrorReport -  0.000 s
+[2025.01.04-18.11.37:940][ 80]LogStats:                    SendNewReport -  2.879 s
+[2025.01.04-18.11.37:940][ 80]LogStats:             FDebug::EnsureFailed -  2.923 s
+[2025.01.04-18.11.37:949][ 80]LogAutomationController: Ignoring very large delta of 2.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.04-18.11.51:398][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.01.04-18.11.51:856][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.11.51:914][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/BP_Save] ([2] browsable assets)...
+[2025.01.04-18.11.51:914][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/BP_Save]
+[2025.01.04-18.11.51:918][546]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/BP_Save
+[2025.01.04-18.11.51:919][546]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/BP_Save3C41A6324793CA009A7D8A871C10B668.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/BP_Save.uasset'
+[2025.01.04-18.11.51:930][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.167 ms (total: 3.44 sec)
+[2025.01.04-18.11.51:979][546]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.11.51:979][546]LogContentValidation: Enabled validators:
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.11.51:979][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.11.51:980][546]AssetCheck: /Game/Blueprints/SaveGame/BP_Save Validating asset
+[2025.01.04-18.12.02:004][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.01.04-18.12.02:418][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.12.02:464][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGame/BP_Save] ([2] browsable assets)...
+[2025.01.04-18.12.02:464][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGame/BP_Save]
+[2025.01.04-18.12.02:468][707]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveGame/BP_Save
+[2025.01.04-18.12.02:469][707]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/BP_Save7450ED3E4A66981DDB781DA0C41DE77E.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/SaveGame/BP_Save.uasset'
+[2025.01.04-18.12.02:481][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.699 ms (total: 3.50 sec)
+[2025.01.04-18.12.02:529][707]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.12.02:529][707]LogContentValidation: Enabled validators:
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.12.02:530][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.12.02:530][707]AssetCheck: /Game/Blueprints/SaveGame/BP_Save Validating asset
+[2025.01.04-18.15.49:551][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.04-18.15.49:765][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MapaBien_Auto1
+[2025.01.04-18.15.49:767][923]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MapaBien_Auto1BDCE176F471F04C942156CBFB41B22D9.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Levels/MapaBien_Auto1.umap'
+[2025.01.04-18.15.49:771][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapaBien' took 0.251
+[2025.01.04-18.15.49:771][923]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.251
+[2025.01.04-18.15.49:772][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.04-18.15.49:772][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2025.01.04-18.15.49:820][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto1
+[2025.01.04-18.15.49:821][923]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacter_Auto13A4258214438E583FBB65BB72D26C638.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/Autosaves/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter_Auto1.uasset'
+[2025.01.04-18.15.49:822][923]LogFileHelpers: Auto-saving content packages took 0.051
+[2025.01.04-18.15.54:443][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1676.030396
+[2025.01.04-18.15.54:589][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.04-18.15.54:589][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1676.167114, Update Interval: 326.162903
+[2025.01.04-18.15.54:961][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.15.55:084][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.04-18.15.55:291][164]LogSavePackage: Moving output files for package: /Game/Levels/MapaBien
+[2025.01.04-18.15.55:292][164]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MapaBienE57D6086463C1946C096139E093BC3CF.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MapaBien.umap'
+[2025.01.04-18.15.55:321][164]LogFileHelpers: Saving map 'MapaBien' took 0.306
+[2025.01.04-18.15.55:327][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 365.728 ms (total: 3.87 sec)
+[2025.01.04-18.15.55:380][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.15.55:380][164]LogContentValidation: Enabled validators:
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.15.55:380][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.15.55:381][164]AssetCheck: /Game/Levels/MapaBien Validating asset
+[2025.01.04-18.15.59:321][507]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.01.04-18.16.08:411][252]Cmd: EDIT COPY
+[2025.01.04-18.16.08:604][260]Cmd: EDIT PASTE
+[2025.01.04-18.16.33:363][ 43]Cmd: EDIT COPY
+[2025.01.04-18.16.33:553][ 54]Cmd: EDIT PASTE
+[2025.01.04-18.16.33:567][ 54]LogClass: Warning: Short type name "Fragmento_C_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc17ff04ed UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c0262 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c1b66 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc17fcd296 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c4d40 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc10147d0b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc101452fc UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.01.04-18.16.33:574][ 54]LogClass: Warning: Short type name "Fragmento_C_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc17ff04ed UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c0262 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c1b66 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc17fcd296 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c4d40 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc10147d0b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc101452fc UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.01.04-18.16.33:584][ 54]LogClass: Warning: Short type name "Fragmento_C_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc17ff04ed UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c0262 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c1b66 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc17fcd296 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c4d40 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc10147d0b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc101452fc UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.01.04-18.16.33:592][ 54]LogClass: Warning: Short type name "Fragmento_C_29" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc17ff04ed UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c0262 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c1b66 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc17fcd296 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182c4d40 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc182693ec UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc10147d0b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc101452fc UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.01.04-18.16.35:344][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.04-18.16.50:069][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.16.50:206][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.04-18.16.50:420][195]LogSavePackage: Moving output files for package: /Game/Levels/MapaBien
+[2025.01.04-18.16.50:422][195]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MapaBien9E249ABA4B219FE820A524BCFA0DA18A.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MapaBien.umap'
+[2025.01.04-18.16.50:452][195]LogFileHelpers: Saving map 'MapaBien' took 0.321
+[2025.01.04-18.16.50:460][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 391.106 ms (total: 4.26 sec)
+[2025.01.04-18.16.50:497][195]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.16.50:497][195]LogContentValidation: Enabled validators:
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.16.50:497][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.16.50:497][195]AssetCheck: /Game/Levels/MapaBien Validating asset
+[2025.01.04-18.17.20:889][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.01.04-18.17.21:341][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.17.21:398][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.04-18.17.21:411][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.FirstPersonCharacter]
+[2025.01.04-18.17.21:411][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2025.01.04-18.17.21:469][843]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter
+[2025.01.04-18.17.21:469][843]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacterECE81FF04E56E462E6A57DB50F80D852.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.uasset'
+[2025.01.04-18.17.21:479][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.002 ms (total: 4.40 sec)
+[2025.01.04-18.17.21:530][843]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.17.21:530][843]LogContentValidation: Enabled validators:
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.17.21:530][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.17.21:530][843]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter Validating asset
+[2025.01.04-18.17.21:695][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.17.21:747][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter] ([2] browsable assets)...
+[2025.01.04-18.17.21:747][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter]
+[2025.01.04-18.17.21:793][850]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter
+[2025.01.04-18.17.21:794][850]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/FirstPersonCharacterA612931144ACA54524EA9DBAC7FE4F09.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter.uasset'
+[2025.01.04-18.17.21:807][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.957 ms (total: 4.51 sec)
+[2025.01.04-18.17.21:864][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.17.21:864][850]LogContentValidation: Enabled validators:
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.17.21:864][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.17.21:864][850]AssetCheck: /Game/Blueprints/Characters/FirstPersonCharacter/FirstPersonCharacter Validating asset
+[2025.01.04-18.18.21:454][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.01.04-18.18.21:959][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.04-18.18.22:087][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.04-18.18.22:299][411]LogSavePackage: Moving output files for package: /Game/Levels/MapaBien
+[2025.01.04-18.18.22:300][411]LogSavePackage: Moving 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Saved/MapaBien25EB1DC14418E276888372BC1F3A62E3.tmp' to 'C:/Users/Diego/Documents/Unreal Projects/MotoresUnrealGrupo5/MotoresUnrealGrupo5/Content/Levels/MapaBien.umap'
+[2025.01.04-18.18.22:329][411]LogFileHelpers: Saving map 'MapaBien' took 0.314
+[2025.01.04-18.18.22:335][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 375.447 ms (total: 4.89 sec)
+[2025.01.04-18.18.22:397][411]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.04-18.18.22:397][411]LogContentValidation: Enabled validators:
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.04-18.18.22:397][411]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.04-18.18.22:397][411]AssetCheck: /Game/Levels/MapaBien Validating asset
